@@ -16,7 +16,7 @@ import com.appcoins.wallet.core.arch.data.Navigator
 import com.appcoins.wallet.feature.backup.ui.entry.BackupEntryRoute
 import com.appcoins.wallet.feature.backup.ui.entry.BackupEntryViewModel
 import com.appcoins.wallet.ui.common.theme.WalletTheme
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.home.usecases.DisplayChatUseCase
 import com.asfoundation.wallet.ui.settings.entry.SettingsInteractor
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment

@@ -2,7 +2,7 @@ package com.asfoundation.wallet.billing.paypal.usecases
 
 import com.appcoins.wallet.core.network.microservices.model.PaypalTransaction
 import com.appcoins.wallet.core.walletservices.WalletService
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 import com.asfoundation.wallet.billing.paypal.repository.PayPalV2Repository
 import io.reactivex.Single
 import javax.inject.Inject

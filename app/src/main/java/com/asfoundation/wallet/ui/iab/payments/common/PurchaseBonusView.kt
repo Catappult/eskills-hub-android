@@ -7,8 +7,8 @@ import android.view.View
 import android.widget.FrameLayout
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
-import com.asf.wallet.R
-import com.asf.wallet.databinding.LayoutPurchaseBonusBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.LayoutPurchaseBonusBinding
 import java.math.BigDecimal
 
 /**

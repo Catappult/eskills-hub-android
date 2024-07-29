@@ -14,8 +14,8 @@ import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.utils.android_common.KeyboardUtils
 import com.appcoins.wallet.ui.common.setReadOnly
-import com.asf.wallet.R
-import com.asf.wallet.databinding.SettingsRedeemGiftBottomSheetLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.SettingsRedeemGiftBottomSheetLayoutBinding
 import com.asfoundation.wallet.redeem_gift.repository.FailedRedeem
 import com.asfoundation.wallet.redeem_gift.repository.SuccessfulRedeem
 import com.google.android.material.bottomsheet.BottomSheetBehavior

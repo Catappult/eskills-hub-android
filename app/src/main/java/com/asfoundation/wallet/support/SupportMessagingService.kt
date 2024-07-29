@@ -8,7 +8,7 @@ import android.content.SharedPreferences
 import android.os.Build
 import androidx.core.app.NotificationCompat
 import androidx.preference.PreferenceManager
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.support.SupportNotificationProperties.ACTION_CHECK_MESSAGES
 import com.asfoundation.wallet.support.SupportNotificationProperties.ACTION_DISMISS
 import com.asfoundation.wallet.support.SupportNotificationProperties.ACTION_KEY

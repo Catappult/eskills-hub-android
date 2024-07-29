@@ -6,7 +6,7 @@ import androidx.activity.result.ActivityResultLauncher
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.appcoins.wallet.core.arch.data.Navigator
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.ui.iab.WebViewActivity
 import javax.inject.Inject
 

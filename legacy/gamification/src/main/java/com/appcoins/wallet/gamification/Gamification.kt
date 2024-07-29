@@ -1,6 +1,7 @@
 package com.appcoins.wallet.gamification
 
 import com.appcoins.wallet.core.network.backend.model.GamificationResponse
+import com.appcoins.wallet.core.network.backend.model.GamificationStatus
 import com.appcoins.wallet.core.network.backend.model.ReferralResponse
 import com.appcoins.wallet.gamification.repository.ForecastBonus
 import com.appcoins.wallet.gamification.repository.ForecastBonusAndLevel
@@ -26,15 +27,39 @@ class Gamification @Inject constructor(private val repository: PromotionsReposit
     wallet: String,
     promoCodeString: String?
   ): Observable<PromotionsGamificationStats> {
-    return repository.getGamificationStats(wallet, promoCodeString)
+    //return repository.getGamificationStats(wallet, promoCodeString)
+    return Observable.just(
+      PromotionsGamificationStats(
+      PromotionsGamificationStats.ResultState.OK,
+        3,
+        nextLevelAmount = BigDecimal(6000),
+        bonus = 13.0,
+        totalSpend = BigDecimal(5000),
+        totalEarned = BigDecimal.ZERO,
+        isActive = true,
+        fromCache = false,
+        gamificationStatus = GamificationStatus.STANDARD
+    )
+    )
   }
 
   fun getUserLevel(wallet: String, promoCodeString: String?): Single<Int> {
-    return repository.getGamificationLevel(wallet, promoCodeString)
+    // return repository.getGamificationLevel(wallet, promoCodeString)
+    return Single.just(3)
   }
 
   fun getLevels(wallet: String, offlineFirst: Boolean = true): Observable<Levels> {
-    return repository.getLevels(wallet, offlineFirst)
+    //return repository.getLevels(wallet, offlineFirst)
+    return Observable.just(Levels(
+      Levels.Status.OK,
+      listOf(
+        Levels.Level(
+          BigDecimal(5000),
+          13.0,
+          3
+        )
+      )
+    ))
   }
 
   fun getUserBonusAndLevel(
@@ -87,20 +112,25 @@ class Gamification @Inject constructor(private val repository: PromotionsReposit
     wallet: String, packageName: String,
     amount: BigDecimal, promoCodeString: String?, currency: String?
   ): Single<ForecastBonus> {
-    return repository.getForecastBonus(wallet, packageName, amount, promoCodeString, currency)
+    // return repository.getForecastBonus(wallet, packageName, amount, promoCodeString, currency)
+    return Single.just(
+      ForecastBonus(ForecastBonus.Status.ACTIVE, amount = BigDecimal(5000), 3 )
+    )
   }
 
   fun hasNewLevel(
     wallet: String, gamificationContext: GamificationContext,
     level: Int
   ): Single<Boolean> {
-    return repository.getLastShownLevel(wallet, gamificationContext)
-      .map { lastShownLevel: Int -> lastShownLevel < level }
+//    return repository.getLastShownLevel(wallet, gamificationContext)
+//      .map { lastShownLevel: Int -> lastShownLevel < level }
+    return Single.just(false)
   }
 
   fun levelShown(wallet: String, level: Int, gamificationContext: GamificationContext):
       Completable {
-    return Completable.fromAction { repository.shownLevel(wallet, level, gamificationContext) }
+    //return Completable.fromAction { repository.shownLevel(wallet, level, gamificationContext) }
+    return Completable.complete()
   }
 
 }

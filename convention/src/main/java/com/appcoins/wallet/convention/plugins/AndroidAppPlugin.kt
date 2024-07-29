@@ -68,8 +68,8 @@ class AndroidAppPlugin : Plugin<Project> {
             versionNameSuffix = ".dev"
             proguardFiles(getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro")
             buildConfigFields(project, BuildConfigType.DEBUG)
-            manifestPlaceholders["legacyPaymentHost"] =
-              project.property("MANIFEST_LEGACY_PAYMENT_HOST_DEV").toString()
+//            manifestPlaceholders["legacyPaymentHost"] =
+//              project.property("MANIFEST_LEGACY_PAYMENT_HOST_DEV").toString()
             manifestPlaceholders["paymentHost"] =
               project.property("MANIFEST_PAYMENT_HOST_DEV").toString()
             manifestPlaceholders["VkExternalAuthRedirectScheme"] =
@@ -93,8 +93,8 @@ class AndroidAppPlugin : Plugin<Project> {
             isShrinkResources = false
             proguardFiles(getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro")
             buildConfigFields(project, BuildConfigType.RELEASE)
-            manifestPlaceholders["legacyPaymentHost"] =
-              project.property("MANIFEST_LEGACY_PAYMENT_HOST").toString()
+//            manifestPlaceholders["legacyPaymentHost"] =
+//              project.property("MANIFEST_LEGACY_PAYMENT_HOST").toString()
             manifestPlaceholders["paymentHost"] =
               project.property("MANIFEST_PAYMENT_HOST").toString()
             manifestPlaceholders["VkExternalAuthRedirectScheme"] =

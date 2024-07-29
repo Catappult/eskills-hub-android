@@ -16,7 +16,7 @@ import com.appcoins.wallet.feature.backup.data.use_cases.ShouldShowSystemNotific
 import com.appcoins.wallet.feature.backup.data.use_cases.UpdateWalletPurchasesCountUseCase;
 import com.appcoins.wallet.feature.changecurrency.data.currencies.FiatValue;
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.GetWalletInfoUseCase;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.asfoundation.wallet.backup.NotificationNeeded;
 import com.asfoundation.wallet.billing.adyen.PurchaseBundleModel;
 import com.asfoundation.wallet.billing.paypal.PaypalSupportedCurrencies;
@@ -46,7 +46,7 @@ public class InAppPurchaseInteractor {
   private static final String LOCAL_PAYMENT_METHOD_KEY = "LOCAL_PAYMENT_METHOD_KEY";
   private static final String LAST_USED_PAYMENT_METHOD_KEY = "LAST_USED_PAYMENT_METHOD_KEY";
   private static final String APPC_ID = "appcoins";
-  private static final String CREDITS_ID = "appcoins_credits";
+  private static final String CREDITS_ID = "eskills_credits";
   private static final long EARN_APPCOINS_APTOIDE_VERCODE = 9961;
   private final AsfInAppPurchaseInteractor asfInAppPurchaseInteractor;
   private final BdsInAppPurchaseInteractor bdsInAppPurchaseInteractor;
@@ -236,7 +236,7 @@ public class InAppPurchaseInteractor {
     List<Gateway.Name> list = new LinkedList<>();
 
     if (creditsBalance.compareTo(amount) >= 0) {
-      list.add(Gateway.Name.appcoins_credits);
+      list.add(Gateway.Name.eskills_credits);
     }
 
     if (hasAppcoinsFunds) {
@@ -472,7 +472,7 @@ public class InAppPurchaseInteractor {
       if (id.equals(APPC_ID) && !filteredGateways.contains(Gateway.Name.appcoins)) {
         iterator.remove();
       } else if (id.equals(CREDITS_ID) && !filteredGateways.contains(
-          Gateway.Name.appcoins_credits)) {
+          Gateway.Name.eskills_credits)) {
         iterator.remove();
       } else if (paymentMethod.getGateway() != null && (paymentMethod.getGateway()
           .getName() == (Gateway.Name.myappcoins)

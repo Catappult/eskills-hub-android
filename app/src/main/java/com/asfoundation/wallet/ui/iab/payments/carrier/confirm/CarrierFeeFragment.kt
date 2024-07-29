@@ -16,8 +16,8 @@ import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
 import com.appcoins.wallet.core.utils.android_common.extensions.getStringSpanned
 import com.appcoins.wallet.ui.common.withNoLayoutTransition
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentCarrierConfirmBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentCarrierConfirmBinding
 import com.asfoundation.wallet.GlideApp
 import com.asfoundation.wallet.ui.iab.IabView
 import com.jakewharton.rxbinding2.view.RxView

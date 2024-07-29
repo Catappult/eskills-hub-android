@@ -2,7 +2,7 @@ package com.asfoundation.wallet.ui.iab.payments.carrier.verify
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.ui.iab.IabActivity
 import com.asfoundation.wallet.ui.iab.payments.carrier.confirm.CarrierFeeFragment
 import com.asfoundation.wallet.ui.iab.payments.common.error.IabErrorFragment

@@ -9,8 +9,8 @@ import android.view.View
 import android.view.ViewGroup
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
-import com.asf.wallet.R
-import com.asf.wallet.databinding.LocalTopupPaymentLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.LocalTopupPaymentLayoutBinding
 import com.asfoundation.wallet.topup.TopUpActivityView
 import com.asfoundation.wallet.topup.TopUpData
 import com.asfoundation.wallet.topup.TopUpPaymentData

@@ -45,6 +45,7 @@ class TicketRepository @Inject constructor(
     eskillsPaymentData.price,
     eskillsPaymentData.currency,
     eskillsPaymentData.product,
+    eskillsPaymentData.productType,
     eskillsPaymentData.timeout,
     eskillsPaymentData.queueId?.id,
     eskillsPaymentData.versionName,

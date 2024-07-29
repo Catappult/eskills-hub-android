@@ -25,8 +25,8 @@ import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
 import com.appcoins.wallet.core.utils.jvm_common.Logger
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.GetWalletInfoUseCase
-import com.asf.wallet.R
-import com.asf.wallet.databinding.MergedAppcoinsLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.MergedAppcoinsLayoutBinding
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.navigator.UriNavigator
 import com.asfoundation.wallet.util.Period

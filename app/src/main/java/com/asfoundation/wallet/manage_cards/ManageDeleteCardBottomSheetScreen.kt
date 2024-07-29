@@ -69,7 +69,7 @@ fun ManageDeleteCardBottomSheet(
       )
       Text(
         text = stringResource(
-          com.asf.wallet.R.string.manage_cards_card_ending_body,
+          com.asf.eskills.R.string.manage_cards_card_ending_body,
           storedCard.cardLastNumbers
         ),
         modifier = Modifier
@@ -131,6 +131,6 @@ fun PreviewBackupDialogCardAlertBottomSheet() {
   ManageDeleteCardBottomSheet(
     {},
     {},
-    StoredCard("1234", com.asf.wallet.R.drawable.ic_card_brand_visa, null, false)
+    StoredCard("1234", com.asf.eskills.R.drawable.ic_card_brand_visa, null, false)
   )
 }

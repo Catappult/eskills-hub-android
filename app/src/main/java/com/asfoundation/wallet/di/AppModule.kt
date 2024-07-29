@@ -28,8 +28,8 @@ import com.aptoide.apk.injector.extractor.data.ExtractorV2
 import com.aptoide.apk.injector.extractor.domain.IExtract
 import com.asf.appcoins.sdk.contractproxy.AppCoinsAddressProxyBuilder
 import com.asf.appcoins.sdk.contractproxy.AppCoinsAddressProxySdk
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
 import com.asfoundation.wallet.entity.NetworkInfo
 import com.asfoundation.wallet.logging.DebugReceiver
 import com.asfoundation.wallet.logging.WalletLogger

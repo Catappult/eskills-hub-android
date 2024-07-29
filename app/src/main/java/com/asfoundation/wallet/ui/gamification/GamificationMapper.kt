@@ -8,7 +8,7 @@ import androidx.annotation.StringRes
 import androidx.core.content.res.ResourcesCompat
 import androidx.core.graphics.drawable.DrawableCompat
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
-import com.asf.wallet.R
+import com.asf.eskills.R
 import dagger.hilt.android.qualifiers.ApplicationContext
 import java.math.BigDecimal
 import java.math.RoundingMode

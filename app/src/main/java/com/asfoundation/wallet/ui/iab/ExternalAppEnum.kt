@@ -1,6 +1,6 @@
 package com.asfoundation.wallet.ui.iab
 
-import com.asf.wallet.R
+import com.asf.eskills.R
 
 enum class ExternalAppEnum(
   val appName: String,

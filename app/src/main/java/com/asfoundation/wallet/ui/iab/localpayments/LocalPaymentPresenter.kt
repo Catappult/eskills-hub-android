@@ -11,7 +11,7 @@ import com.appcoins.wallet.core.analytics.analytics.legacy.BillingAnalytics
 import com.appcoins.wallet.core.network.microservices.model.Transaction
 import com.appcoins.wallet.core.network.microservices.model.Transaction.Status
 import com.appcoins.wallet.core.utils.jvm_common.Logger
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.GlideApp
 import com.asfoundation.wallet.entity.TransactionBuilder
 import io.reactivex.Completable

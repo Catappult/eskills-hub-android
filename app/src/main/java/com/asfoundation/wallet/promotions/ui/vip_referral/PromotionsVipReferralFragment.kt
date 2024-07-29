@@ -49,7 +49,7 @@ import com.appcoins.wallet.ui.common.theme.WalletColors
 import com.appcoins.wallet.ui.widgets.TopBar
 import com.appcoins.wallet.ui.widgets.VipReferralCountDownTimer
 import com.appcoins.wallet.ui.widgets.component.ButtonWithText
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.promotions.ui.vip_referral.PromotionsVipReferralViewModel.UiState
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

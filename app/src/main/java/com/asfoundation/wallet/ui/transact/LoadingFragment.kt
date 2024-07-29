@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.asf.wallet.databinding.TransactLoadingViewBinding
+import com.asf.eskills.databinding.TransactLoadingViewBinding
 
 class LoadingFragment : Fragment() {
   companion object {

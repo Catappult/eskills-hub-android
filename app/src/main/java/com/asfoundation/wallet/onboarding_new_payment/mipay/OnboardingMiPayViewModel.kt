@@ -10,8 +10,8 @@ import com.appcoins.wallet.core.arch.ViewState
 import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.network.microservices.model.MiPayTransaction
 import com.appcoins.wallet.core.network.microservices.model.Transaction
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
 import com.asfoundation.wallet.home.usecases.DisplayChatUseCase
 import com.asfoundation.wallet.onboarding_new_payment.OnboardingPaymentEvents
 import com.asfoundation.wallet.onboarding_new_payment.use_cases.GetMiPayLinkUseCase

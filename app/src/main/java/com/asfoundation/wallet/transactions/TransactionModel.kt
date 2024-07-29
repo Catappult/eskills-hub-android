@@ -10,7 +10,7 @@ import com.appcoins.wallet.core.utils.android_common.AmountUtils.formatMoney
 import com.appcoins.wallet.ui.common.theme.WalletColors.styleguide_green
 import com.appcoins.wallet.ui.common.theme.WalletColors.styleguide_light_grey
 import com.appcoins.wallet.ui.common.theme.WalletColors.styleguide_red
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.transactions.StatusType.PENDING
 import com.asfoundation.wallet.transactions.StatusType.REJECTED
 import com.asfoundation.wallet.transactions.StatusType.SUCCESS

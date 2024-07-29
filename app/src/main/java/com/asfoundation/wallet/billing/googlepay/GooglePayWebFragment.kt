@@ -9,8 +9,8 @@ import android.view.ViewGroup
 import androidx.annotation.StringRes
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentGooglePayWebBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentGooglePayWebBinding
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.navigator.UriNavigator

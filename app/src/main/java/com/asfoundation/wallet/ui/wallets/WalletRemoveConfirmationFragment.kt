@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.utils.jvm_common.Logger
-import com.asf.wallet.databinding.RemoveWalletSecondLayoutBinding
+import com.asf.eskills.databinding.RemoveWalletSecondLayoutBinding
 import com.asfoundation.wallet.interact.DeleteWalletInteract
 import com.jakewharton.rxbinding2.view.RxView
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment

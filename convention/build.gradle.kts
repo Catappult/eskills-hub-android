@@ -51,9 +51,9 @@ gradlePlugin {
       id = "appcoins.jacoco.library"
       implementationClass = "com.appcoins.wallet.convention.plugins.JacocoLibraryPlugin"
     }
-    register("FirebasePlugin") {
-      id = "appcoins.firebase"
-      implementationClass = "com.appcoins.wallet.convention.plugins.FirebasePlugin"
-    }
+//    register("FirebasePlugin") {
+//      id = "appcoins.firebase"
+//      implementationClass = "com.appcoins.wallet.convention.plugins.FirebasePlugin"
+//    }
   }
 }

@@ -13,8 +13,8 @@ import androidx.core.content.res.ResourcesCompat
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentSubscriptionDetailsBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentSubscriptionDetailsBinding
 import com.asfoundation.wallet.GlideApp
 import com.asfoundation.wallet.subscriptions.Status
 import com.asfoundation.wallet.subscriptions.SubscriptionItem

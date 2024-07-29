@@ -4,7 +4,7 @@ import com.appcoins.wallet.core.analytics.analytics.legacy.BillingAnalytics
 import com.appcoins.wallet.core.network.microservices.model.BillingSupportedType
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.jvm_common.Logger
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.entity.TransactionBuilder
 import io.reactivex.Completable
 import io.reactivex.Observable

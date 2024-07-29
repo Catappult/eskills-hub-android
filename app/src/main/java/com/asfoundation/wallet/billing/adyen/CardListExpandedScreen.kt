@@ -69,7 +69,7 @@ fun CardListExpandedScreen(
             imageEndPadding = 16.dp,
             imageSize = 30.dp,
             onClickAction = onAddNewCardClick,
-            addIconDrawable = com.asf.wallet.R.drawable.ic_add_card,
+            addIconDrawable = com.asf.eskills.R.drawable.ic_add_card,
             titleText = stringResource(R.string.manage_cards_settings_add_title),
             backgroundColor = WalletColors.styleguide_white,
             textColor = WalletColors.styleguide_black
@@ -191,9 +191,9 @@ fun PaymentCardItem(storedCard: StoredCard, onChangeCardClick: () -> Unit) {
 @Composable
 fun PreviewBackupDialogCardAlertBottomSheet() {
   CardListExpandedScreen({ _, _ -> {} }, {}, {}, listOf(
-    StoredCard("1234", com.asf.wallet.R.drawable.ic_card_brand_visa, null, false),
-    StoredCard("4325", com.asf.wallet.R.drawable.ic_card_brand_american_express, null, true),
-    StoredCard("1234", com.asf.wallet.R.drawable.ic_card_brand_discover, null, false)
+    StoredCard("1234", com.asf.eskills.R.drawable.ic_card_brand_visa, null, false),
+    StoredCard("4325", com.asf.eskills.R.drawable.ic_card_brand_american_express, null, true),
+    StoredCard("1234", com.asf.eskills.R.drawable.ic_card_brand_discover, null, false)
   ), true
   )
 }
@@ -202,9 +202,9 @@ fun PreviewBackupDialogCardAlertBottomSheet() {
 @Composable
 fun PreviewBackupDialogCardAlertBottomSheetSmall() {
   CardListExpandedScreen({ _, _ -> {} }, {}, {}, listOf(
-    StoredCard("1234", com.asf.wallet.R.drawable.ic_card_brand_visa, null, false),
-    StoredCard("4325", com.asf.wallet.R.drawable.ic_card_brand_american_express, null, true),
-    StoredCard("1234", com.asf.wallet.R.drawable.ic_card_brand_discover, null, false)
+    StoredCard("1234", com.asf.eskills.R.drawable.ic_card_brand_visa, null, false),
+    StoredCard("4325", com.asf.eskills.R.drawable.ic_card_brand_american_express, null, true),
+    StoredCard("1234", com.asf.eskills.R.drawable.ic_card_brand_discover, null, false)
   ), true
   )
 }

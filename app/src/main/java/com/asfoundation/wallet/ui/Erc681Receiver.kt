@@ -6,8 +6,8 @@ import android.view.View
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.utils.jvm_common.Logger
 import com.appcoins.wallet.core.walletservices.WalletService
-import com.asf.wallet.R
-import com.asf.wallet.databinding.ActivityIabWalletCreationBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.ActivityIabWalletCreationBinding
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.main.MainActivity
 import com.asfoundation.wallet.ui.iab.IabActivity.Companion.PRODUCT_NAME

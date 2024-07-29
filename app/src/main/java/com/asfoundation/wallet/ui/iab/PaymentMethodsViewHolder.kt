@@ -13,8 +13,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
 import com.appcoins.wallet.feature.changecurrency.data.currencies.FiatValue
-import com.asf.wallet.R
-import com.asf.wallet.databinding.ItemPaymentMethodBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.ItemPaymentMethodBinding
 import com.asfoundation.wallet.GlideApp
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable

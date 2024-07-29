@@ -21,7 +21,7 @@ interface TransactionsApi {
     @Query("lang_code") languageCode: String
   ): Call<WalletHistory>
 
-  @GET(value = "/appc/wallet/{wallet}/history")
+  @GET(value = "appc/wallet/{wallet}/history")
   suspend fun getTransactionHistory(
     @Path("wallet") wallet: String,
     @Query("limit") limit: Int = 10,
@@ -37,7 +37,7 @@ interface TransactionsApi {
     @Query("transaction_list") transactions: Array<String>
   ): Single<List<WalletHistory.Transaction>>
 
-  @GET(value = "/transaction/wallet/invoices/{invoice_id}/pdf/")
+  @GET(value = "transaction/wallet/invoices/{invoice_id}/pdf/")
   suspend fun getInvoiceById(
     @Path("invoice_id") invoiceId: String,
     @Header("authorization") authorization: String

@@ -14,9 +14,9 @@ import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.feature.vkpay.VkPayManager
 import com.appcoins.wallet.sharedpreferences.VkDataPreferencesDataSource
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
-import com.asf.wallet.databinding.OnboardingVkPaymentLayoutBinding
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
+import com.asf.eskills.databinding.OnboardingVkPaymentLayoutBinding
 import com.asfoundation.wallet.onboarding_new_payment.getPurchaseBonusMessage
 import com.vk.auth.api.models.AuthResult
 import com.vk.auth.main.VkClientAuthCallback

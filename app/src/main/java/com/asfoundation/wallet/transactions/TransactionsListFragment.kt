@@ -38,7 +38,7 @@ import com.appcoins.wallet.ui.common.theme.WalletColors
 import com.appcoins.wallet.ui.widgets.TopBar
 import com.appcoins.wallet.ui.widgets.TransactionCard
 import com.appcoins.wallet.ui.widgets.TransactionSeparator
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.transactions.TransactionsListViewModel.UiModel
 import com.asfoundation.wallet.transactions.TransactionsListViewModel.UiModel.TransactionItem
 import com.asfoundation.wallet.transactions.TransactionsListViewModel.UiState

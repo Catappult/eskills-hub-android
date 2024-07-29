@@ -55,7 +55,7 @@ import com.appcoins.wallet.ui.widgets.component.ButtonType
 import com.appcoins.wallet.ui.widgets.component.ButtonWithText
 import com.appcoins.wallet.ui.widgets.component.WalletCodeTextField
 import com.appcoins.wallet.ui.widgets.expanded
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.ui.iab.WebViewActivity
 import com.asfoundation.wallet.verification.ui.credit_card.VerificationAnalytics
 import com.asfoundation.wallet.verification.ui.credit_card.intro.VerificationInfoModel

@@ -10,8 +10,8 @@ import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentSubscriptionCancelBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentSubscriptionCancelBinding
 import com.asfoundation.wallet.GlideApp
 import com.asfoundation.wallet.subscriptions.SubscriptionItem
 import com.bumptech.glide.load.engine.DiskCacheStrategy

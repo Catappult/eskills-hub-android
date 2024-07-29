@@ -26,8 +26,8 @@ import com.appcoins.wallet.core.utils.android_common.AppUtils
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.properties.PRIVACY_POLICY_URL
 import com.appcoins.wallet.core.utils.properties.TERMS_CONDITIONS_URL
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentOnboardingPaymentBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentOnboardingPaymentBinding
 import com.asfoundation.wallet.onboarding_new_payment.getPurchaseBonusMessage
 import com.asfoundation.wallet.onboarding_new_payment.payment_result.OnboardingSharedHeaderViewModel
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment

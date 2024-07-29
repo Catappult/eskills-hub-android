@@ -10,7 +10,7 @@ import com.appcoins.wallet.billing.adyen.PaymentModel
 import com.appcoins.wallet.core.arch.data.Navigator
 import com.appcoins.wallet.core.arch.data.navigate
 import com.appcoins.wallet.gamification.repository.ForecastBonusAndLevel
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.onboarding.pending_payment.OnboardingPaymentFragment

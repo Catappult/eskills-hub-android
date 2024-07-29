@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.jakewharton.rxrelay2.BehaviorRelay
 
 class PermissionsListAdapter(

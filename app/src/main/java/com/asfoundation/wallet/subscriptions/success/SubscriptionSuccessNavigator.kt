@@ -2,7 +2,7 @@ package com.asfoundation.wallet.subscriptions.success
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.subscriptions.list.SubscriptionListFragment
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import javax.inject.Inject

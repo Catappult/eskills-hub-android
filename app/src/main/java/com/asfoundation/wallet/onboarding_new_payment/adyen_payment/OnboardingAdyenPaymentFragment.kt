@@ -27,9 +27,9 @@ import com.appcoins.wallet.billing.repository.entity.TransactionData
 import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.utils.android_common.KeyboardUtils
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
-import com.asf.wallet.databinding.OnboardingAdyenPaymentFragmentBinding
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
+import com.asf.eskills.databinding.OnboardingAdyenPaymentFragmentBinding
 import com.asfoundation.wallet.billing.adyen.AdyenCardWrapper
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.util.AdyenCardView

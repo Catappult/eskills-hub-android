@@ -4,8 +4,8 @@ import android.graphics.Bitmap
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.SubscriptionItemBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.SubscriptionItemBinding
 import com.asfoundation.wallet.GlideApp
 import com.bumptech.glide.load.DataSource
 import com.bumptech.glide.load.engine.DiskCacheStrategy

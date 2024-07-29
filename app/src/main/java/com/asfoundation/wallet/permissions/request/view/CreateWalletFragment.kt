@@ -8,8 +8,8 @@ import android.view.View
 import android.view.ViewGroup
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.feature.walletInfo.data.wallet.WalletCreatorInteract
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentCreateWalletLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentCreateWalletLayoutBinding
 import com.jakewharton.rxbinding2.view.RxView
 import com.jakewharton.rxrelay2.BehaviorRelay
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment

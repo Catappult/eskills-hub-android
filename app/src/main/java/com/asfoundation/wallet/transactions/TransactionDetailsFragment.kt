@@ -48,7 +48,7 @@ import com.appcoins.wallet.ui.common.theme.WalletColors.styleguide_light_grey
 import com.appcoins.wallet.ui.widgets.TopBar
 import com.appcoins.wallet.ui.widgets.TransactionDetailHeader
 import com.appcoins.wallet.ui.widgets.TransactionDetailItem
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.transactions.DownloadHelper.PDF_FORMAT
 import com.asfoundation.wallet.transactions.TransactionDetailsViewModel.InvoiceState
 import com.asfoundation.wallet.transactions.TransactionDetailsViewModel.UiState

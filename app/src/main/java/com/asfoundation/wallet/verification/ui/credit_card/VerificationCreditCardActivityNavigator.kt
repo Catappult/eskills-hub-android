@@ -2,7 +2,7 @@ package com.asfoundation.wallet.verification.ui.credit_card
 
 import android.app.Activity
 import androidx.appcompat.app.AppCompatActivity
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.verification.ui.credit_card.code.VerificationCodeFragment
 import com.asfoundation.wallet.verification.ui.credit_card.intro.VerificationIntroFragment
 import javax.inject.Inject

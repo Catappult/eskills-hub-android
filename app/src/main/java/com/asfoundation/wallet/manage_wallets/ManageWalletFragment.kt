@@ -84,7 +84,7 @@ import com.appcoins.wallet.ui.widgets.VectorIconButton
 import com.appcoins.wallet.ui.widgets.VerifyWalletAlertCard
 import com.appcoins.wallet.ui.widgets.component.Animation
 import com.appcoins.wallet.ui.widgets.expanded
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.manage_wallets.ManageWalletViewModel.UiState.Loading
 import com.asfoundation.wallet.manage_wallets.ManageWalletViewModel.UiState.Success
 import com.asfoundation.wallet.manage_wallets.ManageWalletViewModel.UiState.WalletChanged

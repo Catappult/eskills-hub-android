@@ -1,7 +1,7 @@
 package com.asfoundation.wallet.billing.adyen
 
 import androidx.annotation.StringRes
-import com.asf.wallet.R
+import com.asf.eskills.R
 import javax.inject.Inject
 
 class AdyenErrorCodeMapper @Inject constructor() {

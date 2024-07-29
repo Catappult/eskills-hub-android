@@ -8,7 +8,7 @@ import com.airbnb.epoxy.EpoxyModelGroup
 import com.airbnb.epoxy.ModelGroupHolder
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.ui.widgets.BaseViewHolder
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.promotions.model.GamificationItem
 import com.asfoundation.wallet.promotions.model.GamificationLinkItem
 import com.asfoundation.wallet.promotions.ui.list.PromotionClick

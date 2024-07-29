@@ -8,7 +8,7 @@ import com.appcoins.wallet.core.network.microservices.api.broker.CarrierBillingA
 import com.appcoins.wallet.core.network.microservices.model.CarrierTransactionBody
 import com.appcoins.wallet.core.utils.android_common.RxSchedulers
 import com.appcoins.wallet.core.utils.jvm_common.Logger
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 import io.reactivex.Observable
 import io.reactivex.Single
 import javax.inject.Inject

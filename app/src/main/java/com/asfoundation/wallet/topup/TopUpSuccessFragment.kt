@@ -14,8 +14,8 @@ import com.airbnb.lottie.FontAssetDelegate
 import com.airbnb.lottie.TextDelegate
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentTopUpSuccessBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentTopUpSuccessBinding
 import com.jakewharton.rxbinding2.view.RxView
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

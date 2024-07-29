@@ -4,8 +4,8 @@ import android.content.res.ColorStateList
 import android.os.Build
 import android.view.View
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.CurrentLevelLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.CurrentLevelLayoutBinding
 import com.asfoundation.wallet.ui.gamification.GamificationFragment.Companion.GAMIFICATION_INFO_ID
 import com.asfoundation.wallet.ui.gamification.GamificationFragment.Companion.SHOW_REACHED_LEVELS_ID
 import io.reactivex.subjects.PublishSubject

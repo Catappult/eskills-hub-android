@@ -8,8 +8,8 @@ import android.view.animation.AnimationUtils
 import androidx.fragment.app.Fragment
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.feature.walletInfo.data.wallet.domain.WalletsModel
-import com.asf.wallet.R
-import com.asf.wallet.databinding.SettingsWalletsLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.SettingsWalletsLayoutBinding
 import com.asfoundation.wallet.backup.entryBottomSheet.BackupEntryChooseWalletView
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.jakewharton.rxbinding2.view.RxView

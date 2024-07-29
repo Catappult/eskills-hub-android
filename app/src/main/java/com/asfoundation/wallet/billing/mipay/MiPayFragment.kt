@@ -18,8 +18,8 @@ import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.RedirectUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.MiPayIabLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.MiPayIabLayoutBinding
 import com.asfoundation.wallet.navigator.UriNavigator
 import com.asfoundation.wallet.ui.iab.IabNavigator
 import com.asfoundation.wallet.ui.iab.IabView

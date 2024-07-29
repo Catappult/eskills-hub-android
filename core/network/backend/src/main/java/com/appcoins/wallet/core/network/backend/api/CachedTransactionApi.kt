@@ -5,6 +5,6 @@ import io.reactivex.Single
 import retrofit2.http.GET
 
 interface CachedTransactionApi {
-  @GET("/transaction/inapp/cached_values")
+  @GET("transaction/inapp/cached_values")
   fun getCachedTransaction(): Single<CachedTransactionResponse>
 }

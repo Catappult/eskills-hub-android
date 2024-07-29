@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.view.MenuItem
 import android.view.View
 import androidx.appcompat.widget.Toolbar
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.google.android.material.appbar.AppBarLayout
 import com.wallet.appcoins.core.legacy_base.BaseActivity
 import dagger.hilt.android.AndroidEntryPoint

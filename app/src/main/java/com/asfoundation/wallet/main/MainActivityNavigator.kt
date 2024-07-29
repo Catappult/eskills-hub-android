@@ -7,7 +7,7 @@ import androidx.activity.result.ActivityResultLauncher
 import androidx.navigation.NavController
 import com.appcoins.wallet.core.arch.data.Navigator
 import com.appcoins.wallet.core.arch.data.navigate
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.main.splash.SplashExtenderFragmentDirections
 import com.asfoundation.wallet.ui.AuthenticationPromptActivity
 import javax.inject.Inject

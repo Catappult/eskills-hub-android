@@ -14,8 +14,8 @@ import com.appcoins.wallet.core.arch.SideEffect
 import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.ViewState
 import com.appcoins.wallet.core.utils.android_common.AppUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.RecoveryWalletSuccessBottomSheetLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.RecoveryWalletSuccessBottomSheetLayoutBinding
 import com.asfoundation.wallet.recover.entry.RecoverEntryNavigator
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment

@@ -50,7 +50,7 @@ import com.appcoins.wallet.ui.widgets.ScreenTitle
 import com.appcoins.wallet.ui.widgets.TopBar
 import com.appcoins.wallet.ui.widgets.component.ButtonType
 import com.appcoins.wallet.ui.widgets.component.ButtonWithText
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.my_wallets.main.MyWalletsNavigator
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

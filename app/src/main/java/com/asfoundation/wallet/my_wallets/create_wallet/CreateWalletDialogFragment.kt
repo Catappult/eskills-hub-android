@@ -16,8 +16,8 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.utils.android_common.AppUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentCreateWalletDialogLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentCreateWalletDialogLayoutBinding
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
 import javax.inject.Inject

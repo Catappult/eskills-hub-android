@@ -11,8 +11,8 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.utils.android_common.AmountUtils.formatMoney
 import com.appcoins.wallet.feature.walletInfo.data.balance.WalletBalance
-import com.asf.wallet.R
-import com.asf.wallet.databinding.ManageWalletBalanceBottomSheetLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.ManageWalletBalanceBottomSheetLayoutBinding
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import dagger.hilt.android.AndroidEntryPoint

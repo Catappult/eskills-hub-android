@@ -3,7 +3,7 @@ package com.asfoundation.wallet.ui.iab
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.jakewharton.rxrelay2.PublishRelay
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.subjects.Subject

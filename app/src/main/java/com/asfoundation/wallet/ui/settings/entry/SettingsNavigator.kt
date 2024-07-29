@@ -4,7 +4,7 @@ import android.content.Intent
 import androidx.activity.result.ActivityResultLauncher
 import androidx.fragment.app.Fragment
 import androidx.navigation.NavController
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.ui.AuthenticationPromptActivity
 import javax.inject.Inject
 

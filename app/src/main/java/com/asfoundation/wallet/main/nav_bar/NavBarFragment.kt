@@ -44,8 +44,8 @@ import com.appcoins.wallet.ui.common.theme.WalletColors.styleguide_white
 import com.appcoins.wallet.ui.widgets.NoNetworkSnackBar
 import com.appcoins.wallet.ui.widgets.component.ButtonWithIcon
 import com.appcoins.wallet.ui.widgets.expanded
-import com.asf.wallet.R
-import com.asf.wallet.databinding.NavBarFragmentBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.NavBarFragmentBinding
 import com.asfoundation.wallet.ui.bottom_navigation.Destinations
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

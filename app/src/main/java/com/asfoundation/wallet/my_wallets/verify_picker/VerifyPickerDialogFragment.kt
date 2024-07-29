@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import by.kirich1409.viewbindingdelegate.viewBinding
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentVerifyPickerBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentVerifyPickerBinding
 import com.asfoundation.wallet.manage_wallets.ManageWalletAnalytics
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment

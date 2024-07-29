@@ -4,7 +4,7 @@ import android.view.View
 import androidx.core.view.ViewCompat
 import androidx.fragment.app.FragmentManager
 import com.appcoins.wallet.core.utils.android_common.SharedElementTransition
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.subscriptions.SubscriptionItem
 import com.asfoundation.wallet.subscriptions.details.SubscriptionDetailsFragment
 import javax.inject.Inject

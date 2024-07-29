@@ -14,7 +14,7 @@ import android.widget.Toast;
 import com.appsflyer.AFInAppEventParameterName;
 import com.appsflyer.AppsFlyerConversionListener;
 import com.appsflyer.AppsFlyerLib;
-import com.asf.wallet.BuildConfig;
+import com.asf.eskills.BuildConfig;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

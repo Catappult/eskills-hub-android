@@ -14,8 +14,8 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.annotation.StringRes
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentPaypalBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentPaypalBinding
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.navigator.UriNavigator

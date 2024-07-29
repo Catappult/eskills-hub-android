@@ -9,8 +9,8 @@ import androidx.core.content.res.ResourcesCompat
 import androidx.navigation.ActivityNavigator
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.feature.walletInfo.data.wallet.FindDefaultWalletInteract
-import com.asf.wallet.R
-import com.asf.wallet.databinding.QrCodeLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.QrCodeLayoutBinding
 import com.asfoundation.wallet.util.generateQrCode
 import com.google.android.material.snackbar.Snackbar
 import com.wallet.appcoins.core.legacy_base.BaseActivity

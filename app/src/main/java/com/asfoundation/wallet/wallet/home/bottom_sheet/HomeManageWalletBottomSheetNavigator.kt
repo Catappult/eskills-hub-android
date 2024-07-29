@@ -5,7 +5,7 @@ import android.os.Bundle
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.navigation.NavController
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.backup.BackupWalletEntryFragment
 import com.asfoundation.wallet.recover.RecoverActivity
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment

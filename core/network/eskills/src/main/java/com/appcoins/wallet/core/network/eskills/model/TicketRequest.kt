@@ -35,6 +35,9 @@ data class TicketRequest(
   @SerializedName("sku")
   private val sku: String?,
 
+  @SerializedName("product_type")
+  private val productType: EskillsPaymentData.ProductType,
+
   @SerializedName("match_max_duration")
   private val timeout: Int?,
 

@@ -14,8 +14,8 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import com.airbnb.lottie.FontAssetDelegate
 import com.airbnb.lottie.TextDelegate
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentSandboxBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentSandboxBinding
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.navigator.UriNavigator

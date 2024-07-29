@@ -15,8 +15,8 @@ import androidx.lifecycle.lifecycleScope
 import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.LocalPaymentLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.LocalPaymentLayoutBinding
 import com.asfoundation.wallet.ui.iab.InAppPurchaseInteractor
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

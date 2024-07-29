@@ -9,7 +9,7 @@ import com.appcoins.wallet.core.utils.jvm_common.Logger
 import com.appcoins.wallet.feature.promocode.data.repository.PromoCode
 import com.appcoins.wallet.feature.promocode.data.repository.PromoCodeLocalDataSource
 import com.appcoins.wallet.gamification.repository.PromotionsRepository
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 import com.asfoundation.wallet.identification.DeviceInformation
 import com.asfoundation.wallet.identification.IdsRepository
 import com.asfoundation.wallet.logging.SentryReceiver

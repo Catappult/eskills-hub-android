@@ -6,7 +6,7 @@ import androidx.navigation.NavController
 import com.appcoins.wallet.core.arch.data.Navigator
 import com.appcoins.wallet.core.arch.data.navigate
 import com.appcoins.wallet.feature.challengereward.data.ChallengeRewardManager
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.promotions.model.VipReferralInfo
 import com.asfoundation.wallet.promotions.ui.vip_referral.PromotionsVipReferralFragment
 import com.asfoundation.wallet.ui.gamification.GamificationActivity

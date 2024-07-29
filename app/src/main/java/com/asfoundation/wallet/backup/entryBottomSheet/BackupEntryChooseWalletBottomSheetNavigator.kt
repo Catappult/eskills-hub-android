@@ -5,7 +5,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.navigation.NavController
 import com.appcoins.wallet.core.arch.data.Navigator
-import com.asf.wallet.R
+import com.asf.eskills.R
 import javax.inject.Inject
 
 class BackupEntryChooseWalletBottomSheetNavigator

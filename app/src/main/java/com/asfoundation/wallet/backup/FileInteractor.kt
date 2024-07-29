@@ -8,7 +8,7 @@ import android.os.Environment
 import android.provider.OpenableColumns
 import androidx.core.content.FileProvider
 import androidx.core.database.getStringOrNull
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 import com.asfoundation.wallet.entity.WalletKeyStore
 import dagger.hilt.android.qualifiers.ApplicationContext
 import io.reactivex.Single

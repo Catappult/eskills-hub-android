@@ -285,6 +285,7 @@ public class AsfInAppPurchaseInteractor {
             }
           case myappcoins:
             return CurrentPaymentStep.PAUSED_LOCAL_PAYMENT;
+          case eskills_credits:
           case appcoins_credits:
             return CurrentPaymentStep.PAUSED_CREDITS;
           case challenge_reward:

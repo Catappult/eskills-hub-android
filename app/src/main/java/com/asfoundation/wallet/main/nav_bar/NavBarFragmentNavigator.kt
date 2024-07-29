@@ -5,8 +5,8 @@ import androidx.fragment.app.Fragment
 import androidx.navigation.NavController
 import com.appcoins.wallet.core.arch.data.Navigator
 import com.appcoins.wallet.core.arch.data.navigate
-import com.asf.wallet.NavBarGraphDirections
-import com.asf.wallet.R
+import com.asf.eskills.NavBarGraphDirections
+import com.asf.eskills.R
 import com.asfoundation.wallet.main.splash.SplashExtenderFragmentDirections
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import javax.inject.Inject

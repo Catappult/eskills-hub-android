@@ -8,7 +8,7 @@ import com.airbnb.epoxy.EpoxyAttribute
 import com.airbnb.epoxy.EpoxyModelClass
 import com.airbnb.epoxy.EpoxyModelWithHolder
 import com.appcoins.wallet.ui.widgets.BaseViewHolder
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.GlideApp
 import com.asfoundation.wallet.onboarding_new_payment.payment_methods.list.PaymentMethodClick
 import com.asfoundation.wallet.ui.iab.PaymentMethod
@@ -94,6 +94,7 @@ abstract class PaymentMethodModel : EpoxyModelWithHolder<PaymentMethodModel.Paym
       PaymentMethodsView.SelectedPaymentMethod.MERGED_APPC -> Unit
       PaymentMethodsView.SelectedPaymentMethod.EARN_APPC -> Unit
       PaymentMethodsView.SelectedPaymentMethod.ERROR -> Unit
+      PaymentMethodsView.SelectedPaymentMethod.ESKL_CREDITS -> Unit
     }
   }
 

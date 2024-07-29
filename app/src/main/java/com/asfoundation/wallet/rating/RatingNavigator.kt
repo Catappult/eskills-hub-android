@@ -4,8 +4,8 @@ import android.content.Intent
 import android.net.Uri
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
 import com.asfoundation.wallet.rating.finish.RatingFinishFragment
 import com.asfoundation.wallet.rating.negative.RatingNegativeFragment
 import com.asfoundation.wallet.rating.positive.RatingPositiveFragment

@@ -9,7 +9,7 @@ import android.widget.TextView
 import androidx.annotation.IdRes
 import androidx.annotation.LayoutRes
 import androidx.core.content.ContextCompat
-import com.asf.wallet.R
+import com.asf.eskills.R
 import java.util.Date
 
 

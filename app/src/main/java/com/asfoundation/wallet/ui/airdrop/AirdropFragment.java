@@ -16,7 +16,7 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import com.appcoins.wallet.core.utils.android_common.Log;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.asfoundation.wallet.GlideApp;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.request.RequestOptions;

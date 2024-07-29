@@ -8,8 +8,8 @@ import androidx.fragment.app.setFragmentResult
 import androidx.navigation.NavController
 import androidx.navigation.fragment.findNavController
 import com.appcoins.wallet.core.arch.data.Navigator
-import com.asf.wallet.NavBarGraphDirections
-import com.asf.wallet.R
+import com.asf.eskills.NavBarGraphDirections
+import com.asf.eskills.R
 import com.asfoundation.wallet.onboarding.pending_payment.OnboardingPaymentFragment.Companion.ONBOARDING_PAYMENT_CONCLUSION
 import javax.inject.Inject
 

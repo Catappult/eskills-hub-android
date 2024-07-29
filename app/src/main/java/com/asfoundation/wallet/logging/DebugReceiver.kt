@@ -2,7 +2,7 @@ package com.asfoundation.wallet.logging
 
 import com.appcoins.wallet.core.utils.android_common.Log
 import com.appcoins.wallet.core.utils.jvm_common.LogReceiver
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 
 class DebugReceiver : LogReceiver {
 

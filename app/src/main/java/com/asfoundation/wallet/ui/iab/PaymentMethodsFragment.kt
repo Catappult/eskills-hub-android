@@ -28,8 +28,8 @@ import com.appcoins.wallet.feature.challengereward.data.model.ChallengeRewardFlo
 import com.appcoins.wallet.feature.changecurrency.data.currencies.FiatValue
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.GetCachedShowRefundDisclaimerUseCase
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.GetWalletInfoUseCase
-import com.asf.wallet.R
-import com.asf.wallet.databinding.PaymentMethodsLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.PaymentMethodsLayoutBinding
 import com.asfoundation.wallet.GlideApp
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.billing.paypal.usecases.IsPaypalAgreementCreatedUseCase

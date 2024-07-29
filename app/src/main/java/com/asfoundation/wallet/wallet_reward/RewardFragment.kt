@@ -61,8 +61,8 @@ import com.appcoins.wallet.ui.widgets.TopBar
 import com.appcoins.wallet.ui.widgets.VipReferralCard
 import com.appcoins.wallet.ui.widgets.expanded
 import com.appcoins.wallet.ui.widgets.openGame
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
 import com.asfoundation.wallet.main.nav_bar.NavBarViewModel
 import com.asfoundation.wallet.promotions.model.DefaultItem
 import com.asfoundation.wallet.promotions.model.FutureItem

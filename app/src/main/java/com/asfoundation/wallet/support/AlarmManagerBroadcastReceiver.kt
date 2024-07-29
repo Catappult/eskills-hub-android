@@ -10,7 +10,7 @@ import android.content.Intent
 import android.os.Build
 import android.os.SystemClock
 import androidx.core.app.NotificationCompat
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.support.SupportNotificationProperties.ACTION_CHECK_MESSAGES
 import com.asfoundation.wallet.support.SupportNotificationProperties.ACTION_DISMISS
 import com.asfoundation.wallet.support.SupportNotificationProperties.ACTION_KEY

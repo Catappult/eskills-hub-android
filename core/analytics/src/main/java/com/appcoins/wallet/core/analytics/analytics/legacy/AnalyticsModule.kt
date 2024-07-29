@@ -240,7 +240,7 @@ class AnalyticsModule {
     private const val WALLET_APP_REPLACE_PROMO_CODE_CLICK = "wallet_app_replace_promo_code_click"
     const val ONBOARDING_PAYMENT = "onboarding_payment"
     const val WALLET_ONBOARDING_RECOVER_WEB = "wallet_onboarding_recover_web"
-    const val VERSION_CODE = 259 //com.asf.wallet.BuildConfig
+    const val VERSION_CODE = 259 //com.asf.eskills.BuildConfig
     const val APPLICATION_ID = "com.appcoins.wallet.dev"
   }
 

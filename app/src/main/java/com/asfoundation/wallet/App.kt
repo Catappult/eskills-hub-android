@@ -24,7 +24,7 @@ import com.appcoins.wallet.core.utils.properties.MiscProperties
 import com.appcoins.wallet.core.walletservices.WalletService
 import com.appcoins.wallet.sharedpreferences.CommonsPreferencesDataSource
 import com.appcoins.wallet.sharedpreferences.FiatCurrenciesPreferencesDataSource
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 import com.asfoundation.wallet.analytics.InitilizeDataAnalytics
 import com.asfoundation.wallet.app_start.AppStartProbe
 import com.asfoundation.wallet.app_start.AppStartUseCase
@@ -127,12 +127,12 @@ class App : MultiDexApplication(), BillingDependenciesProvider {
     setupRxJava()
     val gpsAvailable = checkGooglePlayServices()
     if (gpsAvailable.not()) setupSupportNotificationAlarm()
-    initiateFlurry()
+    //initiateFlurry()
     inAppPurchaseInteractor.start()
     appcoinsOperationsDataSaver.start()
     appcoinsRewards.start()
-    initializeIndicative()
-    initiateIntercom()
+    //initializeIndicative()
+    //initiateIntercom()
     initializeSentry()
     initializeMagnes()
     setupBouncyCastle()

@@ -15,8 +15,8 @@ import com.appcoins.wallet.billing.ErrorInfo
 import com.appcoins.wallet.billing.util.Error
 import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.OnboardingPaymentResultFragmentBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.OnboardingPaymentResultFragmentBinding
 import com.asfoundation.wallet.billing.adyen.AdyenErrorCodeMapper
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.onboarding_new_payment.getPurchaseBonusMessage

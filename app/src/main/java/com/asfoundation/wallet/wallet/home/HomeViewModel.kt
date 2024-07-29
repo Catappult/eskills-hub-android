@@ -215,7 +215,7 @@ constructor(
     return Observable.mergeDelayError(
       observeBalance(),
       updateTransactions(model).subscribeOn(rxSchedulers.io),
-      updateRegisterUser(model.wallet).toObservable(),
+      //updateRegisterUser(model.wallet).toObservable(),
       observeBackup()
     )
       .map {}

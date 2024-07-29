@@ -18,7 +18,7 @@ import com.appcoins.wallet.core.utils.android_common.Log;
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency;
 import com.appcoins.wallet.core.utils.jvm_common.C;
 import com.appcoins.wallet.ui.widgets.WalletButtonView;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.asfoundation.wallet.entity.ErrorEnvelope;
 import com.asfoundation.wallet.entity.GasSettings;
 import com.asfoundation.wallet.entity.PendingTransaction;

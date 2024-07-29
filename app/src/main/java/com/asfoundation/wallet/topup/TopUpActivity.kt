@@ -13,9 +13,9 @@ import com.appcoins.wallet.billing.AppcoinsBillingBinder
 import com.appcoins.wallet.core.utils.jvm_common.Logger
 import com.appcoins.wallet.feature.challengereward.data.ChallengeRewardManager
 import com.appcoins.wallet.ui.widgets.TopBar
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
-import com.asf.wallet.databinding.TopUpActivityLayoutBinding
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
+import com.asf.eskills.databinding.TopUpActivityLayoutBinding
 import com.asfoundation.wallet.backup.BackupNotificationUtils
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.billing.googlepay.GooglePayTopupFragment

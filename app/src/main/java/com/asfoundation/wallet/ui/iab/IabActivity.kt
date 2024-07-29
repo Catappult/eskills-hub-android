@@ -21,9 +21,9 @@ import com.appcoins.wallet.feature.challengereward.data.ChallengeRewardManager
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.GetShowRefundDisclaimerCodeUseCase
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.SetCachedShowRefundDisclaimerUseCase
 import com.appcoins.wallet.ui.widgets.NoNetworkCard
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
-import com.asf.wallet.databinding.ActivityIabBinding
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
+import com.asf.eskills.databinding.ActivityIabBinding
 import com.asfoundation.wallet.backup.BackupNotificationUtils
 import com.asfoundation.wallet.billing.adyen.AdyenPaymentFragment
 import com.asfoundation.wallet.billing.adyen.PaymentType

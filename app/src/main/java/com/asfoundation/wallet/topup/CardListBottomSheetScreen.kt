@@ -60,7 +60,7 @@ fun CardListBottomSheet(
           imageEndPadding = 16.dp,
           imageSize = 36.dp,
           onClickAction = onAddNewCardClick,
-          addIconDrawable = com.asf.wallet.R.drawable.ic_add_card,
+          addIconDrawable = com.asf.eskills.R.drawable.ic_add_card,
           titleText = stringResource(R.string.manage_cards_settings_add_title),
           backgroundColor = WalletColors.styleguide_blue_secondary,
           textColor = WalletColors.styleguide_light_grey
@@ -165,9 +165,9 @@ fun PreviewBackupDialogCardAlertBottomSheet() {
     {},
     {},
     listOf(
-      StoredCard("1234", com.asf.wallet.R.drawable.ic_card_brand_visa, null, false),
-      StoredCard("4325", com.asf.wallet.R.drawable.ic_card_brand_american_express, null, true),
-      StoredCard("1234", com.asf.wallet.R.drawable.ic_card_brand_discover, null, false)
+      StoredCard("1234", com.asf.eskills.R.drawable.ic_card_brand_visa, null, false),
+      StoredCard("4325", com.asf.eskills.R.drawable.ic_card_brand_american_express, null, true),
+      StoredCard("1234", com.asf.eskills.R.drawable.ic_card_brand_discover, null, false)
     ),
     true
   )

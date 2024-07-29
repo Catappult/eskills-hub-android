@@ -13,8 +13,8 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.utils.android_common.applicationinfo.ApplicationInfoModel
 import com.appcoins.wallet.core.utils.android_common.applicationinfo.ApplicationInfoProvider
 import com.appcoins.wallet.permissions.PermissionName
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentPermissionsLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentPermissionsLayoutBinding
 import com.asfoundation.wallet.permissions.PermissionsInteractor
 import com.jakewharton.rxbinding2.view.RxView
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment

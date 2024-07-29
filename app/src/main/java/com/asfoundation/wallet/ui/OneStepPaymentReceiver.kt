@@ -7,7 +7,7 @@ import cm.aptoide.skills.SkillsActivity
 import com.airbnb.lottie.LottieAnimationView
 import com.appcoins.wallet.core.utils.jvm_common.Logger
 import com.appcoins.wallet.core.walletservices.WalletService
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.main.MainActivity
 import com.asfoundation.wallet.ui.iab.IabActivity

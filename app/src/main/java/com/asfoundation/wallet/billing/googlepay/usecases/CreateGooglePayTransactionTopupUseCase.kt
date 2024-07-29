@@ -2,7 +2,7 @@ package com.asfoundation.wallet.billing.googlepay.usecases
 
 import com.appcoins.wallet.core.network.microservices.model.GooglePayWebTransaction
 import com.appcoins.wallet.core.walletservices.WalletService
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 import com.asfoundation.wallet.billing.googlepay.repository.GooglePayWebRepository
 import io.reactivex.Single
 import javax.inject.Inject

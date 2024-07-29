@@ -15,8 +15,8 @@ import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.KeyboardUtils
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
 import com.appcoins.wallet.core.utils.jvm_common.Duration
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentVerificationCodeBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentVerificationCodeBinding
 import com.asfoundation.wallet.verification.ui.credit_card.VerificationCreditCardActivityView
 import com.jakewharton.rxbinding2.view.RxView
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment

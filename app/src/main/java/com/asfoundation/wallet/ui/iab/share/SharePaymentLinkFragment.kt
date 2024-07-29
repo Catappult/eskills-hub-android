@@ -9,8 +9,8 @@ import androidx.core.app.ShareCompat
 import androidx.core.content.res.ResourcesCompat
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.analytics.analytics.legacy.BillingAnalytics
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentSharePaymentLinkBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentSharePaymentLinkBinding
 import com.asfoundation.wallet.ui.iab.IabView
 import com.jakewharton.rxbinding2.view.RxView
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment

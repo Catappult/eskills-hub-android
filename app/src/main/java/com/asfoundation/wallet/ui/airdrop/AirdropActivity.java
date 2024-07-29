@@ -7,7 +7,7 @@ import android.view.MenuItem;
 import android.view.View;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.Toolbar;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.wallet.appcoins.core.legacy_base.BaseActivity;
 
 public class AirdropActivity extends BaseActivity implements AirdropFragment.AirdropBack {

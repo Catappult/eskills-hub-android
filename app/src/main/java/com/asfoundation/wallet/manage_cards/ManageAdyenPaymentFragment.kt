@@ -31,9 +31,9 @@ import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.utils.android_common.KeyboardUtils
 import com.appcoins.wallet.ui.widgets.TopBar
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
-import com.asf.wallet.databinding.ManageAdyenPaymentFragmentBinding
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
+import com.asf.eskills.databinding.ManageAdyenPaymentFragmentBinding
 import com.asfoundation.wallet.billing.adyen.AdyenCardWrapper
 import com.asfoundation.wallet.ui.iab.WebViewActivity
 import com.google.android.material.textfield.TextInputLayout

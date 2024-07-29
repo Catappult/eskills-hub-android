@@ -21,7 +21,7 @@ import com.appcoins.wallet.core.utils.android_common.BalanceUtils;
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils;
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency;
 import com.appcoins.wallet.ui.widgets.SeparatorView;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.asfoundation.wallet.GlideApp;
 import com.asfoundation.wallet.entity.NetworkInfo;
 import com.asfoundation.wallet.entity.TransactionsDetailsModel;

@@ -9,7 +9,7 @@ import androidx.savedstate.SavedStateRegistryOwner
 import com.adyen.checkout.card.CardComponent
 import com.adyen.checkout.card.CardView
 import com.adyen.checkout.components.ui.view.RoundCornerImageView
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.google.android.material.textfield.TextInputLayout
 
 class AdyenCardView(view: View?) {

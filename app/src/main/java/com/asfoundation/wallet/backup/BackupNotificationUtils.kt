@@ -6,7 +6,7 @@ import android.app.PendingIntent
 import android.content.Context
 import android.os.Build
 import androidx.core.app.NotificationCompat
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.backup.BackupBroadcastReceiver.Companion.ACTION_BACKUP
 import com.asfoundation.wallet.backup.BackupBroadcastReceiver.Companion.ACTION_DISMISS
 

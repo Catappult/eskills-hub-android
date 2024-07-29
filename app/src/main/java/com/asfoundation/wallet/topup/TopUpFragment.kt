@@ -40,8 +40,8 @@ import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.SetCachedShow
 import com.appcoins.wallet.sharedpreferences.CardPaymentDataSource
 import com.appcoins.wallet.ui.common.convertDpToPx
 import com.appcoins.wallet.ui.common.theme.WalletColors
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentTopUpBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentTopUpBinding
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.billing.paypal.usecases.IsPaypalAgreementCreatedUseCase
 import com.asfoundation.wallet.billing.paypal.usecases.RemovePaypalBillingAgreementUseCase

@@ -18,7 +18,8 @@ class PromoCodeRepository @Inject constructor(
 ) {
 
   fun verifyAndSavePromoCode(promoCodeString: String): Single<PromoCode> {
-    return promoCodeApi.getPromoCodeBonus(promoCodeString)
+    //return promoCodeApi.getPromoCodeBonus(promoCodeString)
+      return Single.just(PromoCodeBonusResponse("XXXXX",null,PromoCodeBonusResponse.App(null,null,null)))
       .subscribeOn(rxSchedulers.io)
       .doOnSuccess { response ->
         analyticsSetup.setPromoCode(

@@ -4,7 +4,7 @@ import android.animation.LayoutTransition
 import com.airbnb.epoxy.EpoxyModel
 import com.airbnb.epoxy.EpoxyModelGroup
 import com.airbnb.epoxy.ModelGroupHolder
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.onboarding_new_payment.payment_methods.list.model.IncompletePaymentMethodsModel_
 import com.asfoundation.wallet.ui.iab.PaymentMethod
 

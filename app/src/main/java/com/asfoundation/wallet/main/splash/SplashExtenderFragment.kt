@@ -36,8 +36,8 @@ import com.appcoins.wallet.core.utils.jvm_common.RxBus
 import com.appcoins.wallet.ui.common.theme.WalletColors
 import com.appcoins.wallet.ui.widgets.component.ButtonType
 import com.appcoins.wallet.ui.widgets.component.ButtonWithText
-import com.asf.wallet.R
-import com.asf.wallet.databinding.SplashExtenderFragmentBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.SplashExtenderFragmentBinding
 import com.asfoundation.wallet.main.splash.bus.SplashFinishEvent
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

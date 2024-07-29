@@ -8,8 +8,8 @@ import android.view.MenuItem
 import android.view.View
 import androidx.appcompat.widget.Toolbar
 import by.kirich1409.viewbindingdelegate.viewBinding
-import com.asf.wallet.R
-import com.asf.wallet.databinding.RemoveWalletActivityLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.RemoveWalletActivityLayoutBinding
 import com.asfoundation.wallet.ui.AuthenticationPromptActivity
 import com.wallet.appcoins.core.legacy_base.BaseActivity
 import dagger.hilt.android.AndroidEntryPoint

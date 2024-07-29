@@ -7,7 +7,7 @@ import com.appcoins.wallet.core.network.microservices.model.BillingSupportedType
 import com.appcoins.wallet.core.utils.jvm_common.MemoryCache
 import com.appcoins.wallet.core.utils.jvm_common.Repository
 import com.appcoins.wallet.core.utils.properties.HostProperties
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 import com.asfoundation.wallet.entity.Token
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.interact.DefaultTokenProvider

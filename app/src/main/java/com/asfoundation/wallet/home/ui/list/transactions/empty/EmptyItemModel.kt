@@ -6,7 +6,7 @@ import com.airbnb.epoxy.EpoxyModelClass
 import com.airbnb.epoxy.EpoxyModelWithHolder
 import com.airbnb.lottie.LottieAnimationView
 import com.appcoins.wallet.ui.widgets.BaseViewHolder
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.home.ui.list.HomeListClick
 
 @EpoxyModelClass

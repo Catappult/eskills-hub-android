@@ -11,8 +11,8 @@ import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.arch.SingleStateFragment
-import com.asf.wallet.R
-import com.asf.wallet.databinding.ManageWalletBottomSheetLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.ManageWalletBottomSheetLayoutBinding
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import dagger.hilt.android.AndroidEntryPoint

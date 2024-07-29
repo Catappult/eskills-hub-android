@@ -18,7 +18,7 @@ import androidx.work.workDataOf
 import com.appcoins.wallet.core.utils.android_common.RxSchedulers
 import com.appcoins.wallet.feature.walletInfo.data.wallet.domain.Wallet
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.GetCurrentWalletUseCase
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.main.PendingIntentNavigator
 import com.asfoundation.wallet.promotions.usecases.GetVipReferralUseCase
 import dagger.assisted.Assisted

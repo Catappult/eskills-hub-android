@@ -8,7 +8,7 @@ import android.view.View
 import android.widget.FrameLayout
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
-import com.asf.wallet.databinding.PaymentMethodsHeaderBinding
+import com.asf.eskills.databinding.PaymentMethodsHeaderBinding
 import java.math.BigDecimal
 
 class PaymentsHeaderView : FrameLayout {

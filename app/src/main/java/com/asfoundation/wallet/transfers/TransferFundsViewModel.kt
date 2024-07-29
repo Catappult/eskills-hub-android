@@ -14,7 +14,7 @@ import com.appcoins.wallet.appcoins.rewards.AppcoinsRewardsRepository.Status.UNK
 import com.appcoins.wallet.core.utils.android_common.extensions.isNoNetworkException
 import com.appcoins.wallet.feature.walletInfo.data.wallet.domain.WalletInfo
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.ObserveWalletInfoUseCase
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.home.usecases.DisplayChatUseCase
 import com.asfoundation.wallet.main.nav_bar.CurrencyNavigationItem
 import com.asfoundation.wallet.main.nav_bar.TransferNavigationItem

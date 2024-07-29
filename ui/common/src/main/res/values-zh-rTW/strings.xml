@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">AppCoins Wallet</string>
+  <string name="app_name">ESkills Hub</string>
   <string name="title_send">發送</string>
   <string name="title_send_with_token">發送%s</string>
   <string name="title_request">接收</string>

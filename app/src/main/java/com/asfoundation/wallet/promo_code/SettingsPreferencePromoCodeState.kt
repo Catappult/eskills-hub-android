@@ -6,7 +6,7 @@ import android.widget.TextView
 import androidx.core.content.res.ResourcesCompat
 import androidx.preference.Preference
 import androidx.preference.PreferenceViewHolder
-import com.asf.wallet.R
+import com.asf.eskills.R
 
 class SettingsPreferencePromoCodeState(context: Context, attrs: AttributeSet?) :
   Preference(context, attrs) {

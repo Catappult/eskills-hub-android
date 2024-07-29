@@ -10,8 +10,8 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.arch.SideEffect
 import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.ViewState
-import com.asf.wallet.R
-import com.asf.wallet.databinding.WithdrawSuccessBottomSheetLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.WithdrawSuccessBottomSheetLayoutBinding
 import com.asfoundation.wallet.wallet_reward.RewardSharedViewModel
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment

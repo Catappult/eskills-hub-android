@@ -1,7 +1,7 @@
 package com.asfoundation.wallet.ui.iab
 
 import com.appcoins.wallet.sharedpreferences.FingerprintPreferencesDataSource
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.repository.InAppPurchaseService
 import com.asfoundation.wallet.wallet_blocked.WalletBlockedInteract

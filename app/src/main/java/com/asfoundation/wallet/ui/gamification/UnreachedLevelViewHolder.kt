@@ -2,8 +2,8 @@ package com.asfoundation.wallet.ui.gamification
 
 import android.view.View
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.UnreachedLevelLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.UnreachedLevelLayoutBinding
 import java.text.DecimalFormat
 
 class UnreachedLevelViewHolder(

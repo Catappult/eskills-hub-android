@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.DividerItemDecoration
 import by.kirich1409.viewbindingdelegate.viewBinding
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentSubscriptionListBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentSubscriptionListBinding
 import com.asfoundation.wallet.subscriptions.SubscriptionAdapter
 import com.asfoundation.wallet.subscriptions.SubscriptionItem
 import com.jakewharton.rxbinding2.view.RxView

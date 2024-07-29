@@ -1,9 +1,9 @@
 package com.asfoundation.wallet.promotions.ui
 
-import com.asf.wallet.databinding.PromotionsAlmostVipLevelHeaderBinding
-import com.asf.wallet.databinding.PromotionsRegularLevelHeaderBinding
-import com.asf.wallet.databinding.PromotionsVipLevelHeaderBinding
-import com.asf.wallet.databinding.PromotionsVipMaxLevelHeaderBinding
+import com.asf.eskills.databinding.PromotionsAlmostVipLevelHeaderBinding
+import com.asf.eskills.databinding.PromotionsRegularLevelHeaderBinding
+import com.asf.eskills.databinding.PromotionsVipLevelHeaderBinding
+import com.asf.eskills.databinding.PromotionsVipMaxLevelHeaderBinding
 
 class GamificationHeaderBindingAdapter(
   regularLevel: PromotionsRegularLevelHeaderBinding?,

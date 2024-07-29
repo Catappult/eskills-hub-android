@@ -3,7 +3,7 @@ package com.asfoundation.wallet.verification.ui.credit_card.code
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import com.appcoins.wallet.billing.adyen.VerificationCodeResult
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.verification.ui.credit_card.VerificationCreditCardActivityNavigator
 import com.asfoundation.wallet.verification.ui.credit_card.VerificationCreditCardActivityView
 import com.asfoundation.wallet.verification.ui.credit_card.error.VerificationErrorFragment

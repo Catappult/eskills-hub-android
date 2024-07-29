@@ -35,7 +35,7 @@ import com.appcoins.wallet.core.network.backend.model.TransactionTypeResponse.SU
 import com.appcoins.wallet.core.network.backend.model.TransactionTypeResponse.TOPUP
 import com.appcoins.wallet.core.network.backend.model.TransactionTypeResponse.VOUCHER_PURCHASE
 import com.appcoins.wallet.core.network.backend.model.TransactionTypeResponse.WITHDRAW
-import com.asf.wallet.R
+import com.asf.eskills.R
 
 data class TransactionCardInfo(
   val id: String? = null,

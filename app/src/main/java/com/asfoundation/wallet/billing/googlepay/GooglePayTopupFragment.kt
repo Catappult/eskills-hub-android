@@ -10,8 +10,8 @@ import androidx.annotation.StringRes
 import androidx.fragment.app.viewModels
 import com.airbnb.lottie.FontAssetDelegate
 import com.airbnb.lottie.TextDelegate
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentGooglePayTopupBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentGooglePayTopupBinding
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.topup.TopUpActivityView
 import com.asfoundation.wallet.topup.TopUpPaymentData

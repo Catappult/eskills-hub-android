@@ -1,7 +1,7 @@
 package com.asfoundation.wallet.verification.ui.credit_card.intro
 
 import androidx.fragment.app.FragmentManager
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.verification.ui.credit_card.code.VerificationCodeFragment
 import javax.inject.Inject
 

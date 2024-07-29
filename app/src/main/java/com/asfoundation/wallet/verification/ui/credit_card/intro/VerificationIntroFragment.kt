@@ -14,9 +14,9 @@ import com.appcoins.wallet.billing.adyen.VerificationPaymentModel
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.android_common.KeyboardUtils
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentVerificationIntroBinding
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentVerificationIntroBinding
 import com.asfoundation.wallet.billing.adyen.AdyenCardWrapper
 import com.asfoundation.wallet.util.AdyenCardView
 import com.asfoundation.wallet.verification.ui.credit_card.VerificationCreditCardActivityView

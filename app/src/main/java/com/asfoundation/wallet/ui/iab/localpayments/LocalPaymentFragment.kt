@@ -10,8 +10,8 @@ import android.view.View
 import android.view.ViewGroup
 import com.airbnb.lottie.FontAssetDelegate
 import com.airbnb.lottie.TextDelegate
-import com.asf.wallet.R
-import com.asf.wallet.databinding.LocalPaymentLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.LocalPaymentLayoutBinding
 import com.asfoundation.wallet.ui.iab.IabView
 import com.asfoundation.wallet.ui.iab.InAppPurchaseInteractor
 import com.asfoundation.wallet.ui.iab.localpayments.LocalPaymentView.ViewState

@@ -11,8 +11,8 @@ import androidx.lifecycle.lifecycleScope
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.data.Async
-import com.asf.wallet.R
-import com.asf.wallet.databinding.RecoverPasswordFragmentBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.RecoverPasswordFragmentBinding
 import com.asfoundation.wallet.my_wallets.create_wallet.CreateWalletDialogFragment
 import com.asfoundation.wallet.recover.RecoverActivity.Companion.ONBOARDING_LAYOUT
 import com.asfoundation.wallet.recover.result.FailedPasswordRecover

@@ -18,6 +18,7 @@ class PaymentMethodsMapper @Inject constructor(
       "credit_card" -> SelectedPaymentMethod.CREDIT_CARD
       "appcoins" -> SelectedPaymentMethod.APPC
       "appcoins_credits" -> SelectedPaymentMethod.APPC_CREDITS
+      "eskills_credits" -> SelectedPaymentMethod.ESKL_CREDITS
       "merged_appcoins" -> SelectedPaymentMethod.MERGED_APPC
       "earn_appcoins" -> SelectedPaymentMethod.EARN_APPC
       "onebip" -> SelectedPaymentMethod.CARRIER_BILLING
@@ -39,6 +40,7 @@ class PaymentMethodsMapper @Inject constructor(
       SelectedPaymentMethod.CREDIT_CARD -> "credit_card"
       SelectedPaymentMethod.APPC -> "appcoins"
       SelectedPaymentMethod.APPC_CREDITS -> "appcoins_credits"
+      SelectedPaymentMethod.ESKL_CREDITS -> "eskills_credits"
       SelectedPaymentMethod.MERGED_APPC -> "merged_appcoins"
       SelectedPaymentMethod.LOCAL_PAYMENTS -> "local_payments"
       SelectedPaymentMethod.EARN_APPC -> "earn_appcoins"

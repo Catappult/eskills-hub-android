@@ -2,7 +2,7 @@ package com.asfoundation.wallet.home.ui.list.header.notifications
 
 import com.airbnb.epoxy.EpoxyModel
 import com.airbnb.epoxy.EpoxyModelGroup
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.ui.appcoins.applications.AppcoinsApplication
 import com.asfoundation.wallet.ui.widget.holder.ApplicationClickAction
 

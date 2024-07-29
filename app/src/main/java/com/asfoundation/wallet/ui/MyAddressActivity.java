@@ -14,7 +14,7 @@ import android.widget.Toast;
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.Toolbar;
 import com.appcoins.wallet.feature.walletInfo.data.wallet.domain.Wallet;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.asfoundation.wallet.entity.NetworkInfo;
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.MultiFormatWriter;

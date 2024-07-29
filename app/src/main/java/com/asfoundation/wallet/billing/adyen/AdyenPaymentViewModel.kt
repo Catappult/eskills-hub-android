@@ -34,7 +34,7 @@ import com.appcoins.wallet.core.utils.jvm_common.Logger
 import com.appcoins.wallet.feature.walletInfo.data.verification.VerificationType
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.GetCurrentWalletUseCase
 import com.appcoins.wallet.sharedpreferences.CardPaymentDataSource
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.billing.adyen.enums.PaymentStateEnum
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.manage_cards.models.StoredCard

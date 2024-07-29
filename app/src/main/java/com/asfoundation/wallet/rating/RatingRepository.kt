@@ -4,7 +4,7 @@ import com.appcoins.wallet.core.network.zendesk.RetrofitZendeskNetwork
 import com.appcoins.wallet.core.network.zendesk.model.WalletFeedbackBody
 import com.appcoins.wallet.core.utils.jvm_common.Logger
 import com.appcoins.wallet.sharedpreferences.RatingPreferencesDataSource
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 import io.reactivex.Single
 import javax.inject.Inject
 

@@ -1,7 +1,7 @@
 package com.asfoundation.wallet.util
 
 import android.content.Context
-import com.asf.wallet.R
+import com.asf.eskills.R
 import java.io.Serializable
 import java.time.format.DateTimeParseException
 import java.util.Objects

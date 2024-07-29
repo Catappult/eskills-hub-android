@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import by.kirich1409.viewbindingdelegate.viewBinding
-import com.asf.wallet.databinding.FragmentRatingFinishBinding
+import com.asf.eskills.databinding.FragmentRatingFinishBinding
 import com.asfoundation.wallet.rating.RatingActivity
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

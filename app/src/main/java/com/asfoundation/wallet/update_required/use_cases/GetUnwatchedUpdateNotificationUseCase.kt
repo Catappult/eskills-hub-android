@@ -1,7 +1,7 @@
 package com.asfoundation.wallet.update_required.use_cases
 
 import com.appcoins.wallet.sharedpreferences.CommonsPreferencesDataSource
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.interact.EmptyNotification
 import com.asfoundation.wallet.interact.UpdateNotification
 import com.asfoundation.wallet.referrals.CardNotification

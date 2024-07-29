@@ -34,7 +34,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
 import com.appcoins.wallet.core.utils.android_common.Log;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.asfoundation.wallet.ui.camera.CameraSource;
 import com.asfoundation.wallet.ui.camera.CameraSourcePreview;
 import com.google.android.gms.common.ConnectionResult;

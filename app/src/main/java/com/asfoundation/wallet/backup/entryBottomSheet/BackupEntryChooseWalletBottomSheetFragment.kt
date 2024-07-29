@@ -70,7 +70,7 @@ class BackupEntryChooseWalletBottomSheetFragment :
   }
 
   override fun getTheme(): Int {
-    return com.asf.wallet.R.style.AppBottomSheetDialogThemeDraggable
+    return com.asf.eskills.R.style.AppBottomSheetDialogThemeDraggable
   }
 
   override fun setupUi(walletsBalance: List<WalletInfoSimple>) {
@@ -101,7 +101,7 @@ class BackupEntryChooseWalletBottomSheetFragment :
     val navHostFragment =
       requireActivity()
         .supportFragmentManager
-        .findFragmentById(com.asf.wallet.R.id.main_host_container) as NavHostFragment
+        .findFragmentById(com.asf.eskills.R.id.main_host_container) as NavHostFragment
     return navHostFragment.navController
   }
 }

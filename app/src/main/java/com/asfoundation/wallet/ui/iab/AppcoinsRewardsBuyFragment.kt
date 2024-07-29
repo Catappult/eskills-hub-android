@@ -11,8 +11,8 @@ import com.appcoins.wallet.billing.BillingMessagesMapper
 import com.appcoins.wallet.core.analytics.analytics.legacy.BillingAnalytics
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.core.utils.jvm_common.Logger
-import com.asf.wallet.R
-import com.asf.wallet.databinding.RewardPaymentLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.RewardPaymentLayoutBinding
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.util.TransferParser
 import com.jakewharton.rxbinding2.view.RxView

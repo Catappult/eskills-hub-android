@@ -21,8 +21,8 @@ import com.appcoins.wallet.feature.promocode.data.SuccessfulPromoCode
 import com.appcoins.wallet.feature.promocode.data.repository.PromoCode
 import com.appcoins.wallet.feature.promocode.data.repository.ValidityState
 import com.appcoins.wallet.ui.widgets.WalletTextFieldView
-import com.asf.wallet.R
-import com.asf.wallet.databinding.SettingsPromoCodeBottomSheetLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.SettingsPromoCodeBottomSheetLayoutBinding
 import com.asfoundation.wallet.promo_code.bottom_sheet.PromoCodeBottomSheetNavigator
 import com.asfoundation.wallet.wallet_reward.RewardSharedViewModel
 import com.google.android.material.bottomsheet.BottomSheetBehavior

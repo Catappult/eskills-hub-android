@@ -36,7 +36,7 @@ class SupportNotificationBroadcastReceiver : ComponentActivity() {
   }
 
   private fun onNotificationClicked(context: Context) {
-    navigateToIntercomScreen(context)
+    //navigateToIntercomScreen(context)
   }
 
   private fun navigateToIntercomScreen(context: Context) {

@@ -17,6 +17,7 @@ data class EskillsPaymentData(
   var metadata: Map<String, String>,
   var numberOfUsers: Int?,
   var timeout: Int?,
+  var productType: ProductType = ProductType.ESKILLS_V2,
   var queueId: QueueIdentifier? = null,
   var versionName: String? = null,
   var versionCode: Long? = null
@@ -24,5 +25,9 @@ data class EskillsPaymentData(
 
   enum class MatchEnvironment {
     LIVE, SANDBOX
+  }
+
+  enum class ProductType {
+    ESKILLS, ESKILLS_V2
   }
 }

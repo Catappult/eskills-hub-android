@@ -17,7 +17,7 @@ import com.appcoins.wallet.billing.adyen.PaymentModel.Status.INVALID_TRANSACTION
 import com.appcoins.wallet.core.network.microservices.model.GooglePayWebTransaction
 import com.appcoins.wallet.core.utils.android_common.RxSchedulers
 import com.appcoins.wallet.core.utils.android_common.toSingleEvent
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.billing.googlepay.models.GooglePayConst
 import com.asfoundation.wallet.billing.googlepay.models.GooglePayResult

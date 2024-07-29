@@ -7,7 +7,7 @@ import com.airbnb.epoxy.EpoxyAttribute
 import com.airbnb.epoxy.EpoxyModelClass
 import com.airbnb.epoxy.EpoxyModelWithHolder
 import com.appcoins.wallet.ui.widgets.BaseViewHolder
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.home.ui.list.HomeListClick
 import com.rd.PageIndicatorView
 import java.util.Timer

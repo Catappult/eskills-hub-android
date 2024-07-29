@@ -10,8 +10,8 @@ import androidx.annotation.Nullable
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
-import com.asf.wallet.R
-import com.asf.wallet.databinding.OnboardingGooglePayLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.OnboardingGooglePayLayoutBinding
 import com.asfoundation.wallet.onboarding_new_payment.getPurchaseBonusMessage
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

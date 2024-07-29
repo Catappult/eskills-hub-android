@@ -6,7 +6,7 @@ import android.content.pm.PackageManager
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import com.appcoins.wallet.permissions.PermissionName
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.permissions.PermissionsInteractor
 import com.jakewharton.rxrelay2.BehaviorRelay
 import com.wallet.appcoins.core.legacy_base.BaseActivity

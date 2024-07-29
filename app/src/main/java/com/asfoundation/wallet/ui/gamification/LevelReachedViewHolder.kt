@@ -1,7 +1,7 @@
 package com.asfoundation.wallet.ui.gamification
 
 import android.view.View
-import com.asf.wallet.databinding.ReachedLevelLayoutBinding
+import com.asf.eskills.databinding.ReachedLevelLayoutBinding
 
 class LevelReachedViewHolder(itemView: View, private val mapper: GamificationMapper) :
   LevelsViewHolder(itemView) {

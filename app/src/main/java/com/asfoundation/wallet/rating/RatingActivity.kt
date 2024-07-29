@@ -3,7 +3,7 @@ package com.asfoundation.wallet.rating
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.rating.entry.RatingEntryFragment
 import com.asfoundation.wallet.rating.positive.RatingPositiveFragment
 import com.wallet.appcoins.core.legacy_base.BaseActivity

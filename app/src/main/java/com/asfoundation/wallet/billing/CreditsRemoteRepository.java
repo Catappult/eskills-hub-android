@@ -23,7 +23,7 @@ public class CreditsRemoteRepository
       @Nullable String orderReference, @Nullable String referrerUrl,
       @Nullable String productToken) {
     return remoteRepository.registerAuthorizationProof(origin, type, entityOemId, entityDomain,
-        null, "appcoins_credits", walletAddress, sku, packageName, amount, payload, callback,
+        null, "eskills_credits", walletAddress, sku, packageName, amount, payload, callback,
         orderReference, referrerUrl, productToken);
   }
 
@@ -31,7 +31,7 @@ public class CreditsRemoteRepository
   public Single<Transaction> sendCredits(@NotNull String toWallet, @NotNull String walletAddress,
       @NotNull String signature, @NotNull BigDecimal amount, @NotNull String origin,
       @NotNull String type, @NotNull String packageName) {
-    return remoteRepository.transferCredits(toWallet, origin, type, "appcoins_credits",
+    return remoteRepository.transferCredits(toWallet, origin, type, "eskills_credits",
         walletAddress, signature, packageName, amount);
   }
 }

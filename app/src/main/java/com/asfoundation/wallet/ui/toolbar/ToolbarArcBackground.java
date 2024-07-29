@@ -7,7 +7,7 @@ import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.view.View;
 import androidx.annotation.Nullable;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 
 /**
  * Background arc used in the transaction screen toolbar layout.

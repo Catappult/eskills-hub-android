@@ -22,8 +22,8 @@ import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.feature.backup.ui.save_on_device.BackupSaveOnDeviceDialogState
 import com.appcoins.wallet.feature.backup.ui.save_on_device.BackupSaveOnDeviceSideEffect
 import com.appcoins.wallet.feature.backup.ui.save_on_device.BackupSaveOnDeviceViewModel
-import com.asf.wallet.R
-import com.asf.wallet.databinding.BackupSaveOnDeviceDialogFragmentBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.BackupSaveOnDeviceDialogFragmentBinding
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import dagger.hilt.android.AndroidEntryPoint

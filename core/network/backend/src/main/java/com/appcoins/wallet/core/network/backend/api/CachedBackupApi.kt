@@ -6,6 +6,6 @@ import retrofit2.http.GET
 
 interface CachedBackupApi {
 
-  @GET("/appc/guest_wallet/cached_values")
+  @GET("appc/guest_wallet/cached_values")
   fun getCachedBackup(): Single<CachedGuestWalletResponse>
 }

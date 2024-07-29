@@ -3,6 +3,7 @@ package com.asfoundation.wallet.home.usecases
 import com.appcoins.wallet.gamification.Gamification
 import com.appcoins.wallet.gamification.repository.Levels
 import io.reactivex.Single
+import java.math.BigDecimal
 import javax.inject.Inject
 
 class GetLevelsUseCase @Inject constructor(

@@ -3,7 +3,7 @@ package com.asfoundation.wallet.topup.paymentMethods
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.manage_cards.models.StoredCard
 import com.asfoundation.wallet.ui.iab.PaymentMethod
 import com.asfoundation.wallet.ui.iab.TopupPaymentMethodsViewHolder

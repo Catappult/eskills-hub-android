@@ -13,7 +13,7 @@ import androidx.appcompat.widget.Toolbar
 import androidx.lifecycle.ViewModelProvider
 import com.appcoins.wallet.core.utils.android_common.Log.Companion.e
 import com.appcoins.wallet.core.utils.jvm_common.C
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.router.Result
 import com.asfoundation.wallet.ui.barcode.BarcodeCaptureActivity
 import com.asfoundation.wallet.ui.iab.IabActivity

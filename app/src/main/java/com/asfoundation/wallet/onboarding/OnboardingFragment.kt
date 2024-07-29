@@ -27,8 +27,8 @@ import com.appcoins.wallet.core.utils.android_common.WalletCurrency
 import com.appcoins.wallet.core.utils.properties.PRIVACY_POLICY_URL
 import com.appcoins.wallet.core.utils.properties.TERMS_CONDITIONS_URL
 import com.appcoins.wallet.feature.changecurrency.data.currencies.FiatValue
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentOnboardingBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentOnboardingBinding
 import com.asfoundation.wallet.my_wallets.create_wallet.CreateWalletDialogFragment
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

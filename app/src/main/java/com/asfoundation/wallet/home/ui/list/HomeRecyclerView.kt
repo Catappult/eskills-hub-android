@@ -6,7 +6,7 @@ import android.view.View
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.airbnb.epoxy.EpoxyRecyclerView
-import com.asf.wallet.R
+import com.asf.eskills.R
 
 class HomeRecyclerView @JvmOverloads constructor(
   context: Context, attrs: AttributeSet? = null,

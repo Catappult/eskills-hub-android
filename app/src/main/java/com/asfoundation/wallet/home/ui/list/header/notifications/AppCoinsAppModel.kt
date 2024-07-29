@@ -13,7 +13,7 @@ import com.airbnb.epoxy.EpoxyModelClass
 import com.airbnb.epoxy.EpoxyModelWithHolder
 import com.appcoins.wallet.ui.widgets.BaseViewHolder
 import com.appcoins.wallet.ui.widgets.CardHeaderTransformation
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.GlideApp
 import com.asfoundation.wallet.ui.appcoins.applications.AppcoinsApplication
 import com.asfoundation.wallet.ui.widget.holder.ApplicationClickAction

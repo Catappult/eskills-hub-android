@@ -8,8 +8,8 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.appcoins.wallet.core.utils.jvm_common.NumberFormatterUtils
 import com.appcoins.wallet.feature.changecurrency.data.currencies.FiatValue
-import com.asf.wallet.R
-import com.asf.wallet.databinding.ItemTopValueBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.ItemTopValueBinding
 import rx.functions.Action1
 
 

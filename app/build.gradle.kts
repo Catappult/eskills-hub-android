@@ -2,18 +2,18 @@ plugins {
   id("appcoins.android.app")
   id("appcoins.room")
   id("appcoins.hilt")
-  id("appcoins.firebase")
-  id("com.google.gms.google-services")
+  //id("appcoins.firebase")
+  //id("com.google.gms.google-services")
   id("androidx.navigation.safeargs.kotlin")
   id("de.mannodermaus.android-junit5")
 }
 
 android {
-  namespace = "com.asf.wallet"
+  namespace = "com.asf.eskills"
   defaultConfig {
-    applicationId = "com.appcoins.wallet"
-    versionCode = 318
-    versionName = "3.23.0"
+    applicationId = "com.eskills.hub"
+    versionCode = 1
+    versionName = "0.0.1"
   }
 }
 

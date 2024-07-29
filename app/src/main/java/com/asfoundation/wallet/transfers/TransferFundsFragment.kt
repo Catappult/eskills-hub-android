@@ -72,7 +72,7 @@ import com.appcoins.wallet.ui.widgets.VectorIconButton
 import com.appcoins.wallet.ui.widgets.component.ButtonType
 import com.appcoins.wallet.ui.widgets.component.ButtonWithText
 import com.appcoins.wallet.ui.widgets.component.WalletTextField
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.manage_wallets.ManageWalletFragment
 import com.asfoundation.wallet.transfers.TransferFundsViewModel.UiState.Error
 import com.asfoundation.wallet.transfers.TransferFundsViewModel.UiState.InvalidAmountError

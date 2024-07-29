@@ -13,7 +13,7 @@ import androidx.annotation.Nullable;
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils;
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency;
 import com.appcoins.wallet.core.utils.jvm_common.C;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.asfoundation.wallet.GlideApp;
 import com.asfoundation.wallet.transactions.Transaction;
 import com.asfoundation.wallet.transactions.Transaction.TransactionType;

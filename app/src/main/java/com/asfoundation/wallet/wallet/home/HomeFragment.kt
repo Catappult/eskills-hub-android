@@ -6,6 +6,7 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -64,7 +65,7 @@ import com.appcoins.wallet.ui.widgets.TransactionCard
 import com.appcoins.wallet.ui.widgets.WelcomeEmailCard
 import com.appcoins.wallet.ui.widgets.component.BalanceValue
 import com.appcoins.wallet.ui.widgets.openGame
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.entity.GlobalBalance
 import com.asfoundation.wallet.main.nav_bar.NavBarViewModel
 import com.asfoundation.wallet.promotions.model.DefaultItem
@@ -120,9 +121,9 @@ class HomeFragment : BasePageViewFragment(), SingleStateFragment<HomeState, Home
     if (!fromSupportNotification) {
       viewModel.updateData()
       checkRoot()
-      Intercom.client().handlePushMessage()
+      //Intercom.client().handlePushMessage()
     } else {
-      viewModel.showSupportScreen()
+      //viewModel.showSupportScreen()
     }
     viewModel.fetchPromotions()
     viewModel.isEmailError.value = false
@@ -149,7 +150,7 @@ class HomeFragment : BasePageViewFragment(), SingleStateFragment<HomeState, Home
             isMainBar = true,
             onClickNotifications = { Log.d("TestHomeFragment", "Notifications") },
             onClickSettings = { viewModel.onSettingsClick() },
-            onClickSupport = { viewModel.showSupportScreen() },
+            onClickSupport = { Toast.makeText(context,"Intercom is disabled.", Toast.LENGTH_SHORT)/*viewModel.showSupportScreen()*/ },
             hasNotificationBadge = viewModel.hasNotificationBadge.value
           )
         }

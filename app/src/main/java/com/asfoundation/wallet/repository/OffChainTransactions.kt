@@ -2,7 +2,7 @@ package com.asfoundation.wallet.repository
 
 import android.annotation.SuppressLint
 import com.appcoins.wallet.core.network.backend.model.WalletHistory
-import com.asf.wallet.BuildConfig
+import com.asf.eskills.BuildConfig
 import io.reactivex.Single
 import retrofit2.HttpException
 import java.util.Locale

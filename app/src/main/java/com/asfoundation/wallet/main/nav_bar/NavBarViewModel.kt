@@ -6,7 +6,7 @@ import androidx.lifecycle.viewModelScope
 import com.appcoins.wallet.core.arch.BaseViewModel
 import com.appcoins.wallet.core.arch.SideEffect
 import com.appcoins.wallet.core.arch.ViewState
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.app_start.AppStartUseCase
 import com.asfoundation.wallet.app_start.StartMode
 import com.asfoundation.wallet.promotions.PromotionUpdateScreen

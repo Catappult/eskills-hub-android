@@ -16,8 +16,8 @@ import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.utils.android_common.KeyboardUtils
 import com.appcoins.wallet.ui.widgets.WalletTextFieldView
-import com.asf.wallet.R
-import com.asf.wallet.databinding.EskillsWithdrawBottomSheetLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.EskillsWithdrawBottomSheetLayoutBinding
 import com.asfoundation.wallet.eskills.withdraw.domain.FailedWithdraw
 import com.asfoundation.wallet.eskills.withdraw.domain.SuccessfulWithdraw
 import com.asfoundation.wallet.eskills.withdraw.domain.WithdrawResult

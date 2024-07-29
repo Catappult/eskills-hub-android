@@ -5,7 +5,7 @@ import android.widget.ImageView
 import android.widget.Switch
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.jakewharton.rxrelay2.BehaviorRelay
 
 class PermissionViewHolder(

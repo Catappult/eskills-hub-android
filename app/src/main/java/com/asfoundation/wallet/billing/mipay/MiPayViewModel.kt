@@ -12,7 +12,7 @@ import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.network.microservices.model.MiPayTransaction
 import com.appcoins.wallet.core.network.microservices.model.Transaction
 import com.appcoins.wallet.core.utils.android_common.RxSchedulers
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.billing.adyen.PaymentType
 import com.asfoundation.wallet.billing.paypal.usecases.CreateSuccessBundleUseCase
 import com.asfoundation.wallet.entity.TransactionBuilder

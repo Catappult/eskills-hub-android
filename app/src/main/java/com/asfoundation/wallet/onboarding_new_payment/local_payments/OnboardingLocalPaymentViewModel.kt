@@ -9,8 +9,8 @@ import com.appcoins.wallet.core.arch.SideEffect
 import com.appcoins.wallet.core.arch.ViewState
 import com.appcoins.wallet.core.arch.data.Async
 import com.appcoins.wallet.core.network.microservices.model.Transaction
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
 import com.asfoundation.wallet.onboarding_new_payment.OnboardingPaymentEvents
 import com.asfoundation.wallet.onboarding_new_payment.use_cases.GetPaymentLinkUseCase
 import com.asfoundation.wallet.onboarding_new_payment.use_cases.GetTransactionStatusUseCase

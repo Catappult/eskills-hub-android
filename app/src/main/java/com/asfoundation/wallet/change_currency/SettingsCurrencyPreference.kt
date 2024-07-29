@@ -10,7 +10,7 @@ import androidx.preference.Preference
 import androidx.preference.PreferenceViewHolder
 import com.appcoins.wallet.core.utils.android_common.extensions.safeLet
 import com.appcoins.wallet.feature.changecurrency.data.FiatCurrency
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.GlideApp
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
 

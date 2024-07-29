@@ -16,7 +16,7 @@ import com.airbnb.lottie.LottieAnimationView;
 import com.airbnb.lottie.TextDelegate;
 import com.appcoins.wallet.core.analytics.analytics.legacy.BillingAnalytics;
 import com.appcoins.wallet.core.utils.jvm_common.Logger;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.asfoundation.wallet.entity.TransactionBuilder;
 import com.jakewharton.rxbinding2.view.RxView;
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment;

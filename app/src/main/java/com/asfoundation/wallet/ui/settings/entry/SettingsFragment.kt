@@ -27,7 +27,7 @@ import com.appcoins.wallet.core.utils.properties.PRIVACY_POLICY_URL
 import com.appcoins.wallet.core.utils.properties.TERMS_CONDITIONS_URL
 import com.appcoins.wallet.feature.changecurrency.data.FiatCurrency
 import com.appcoins.wallet.ui.widgets.TopBar
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.change_currency.SettingsCurrencyPreference
 import com.asfoundation.wallet.manage_cards.ManageCardSharedViewModel
 import com.asfoundation.wallet.permissions.manage.view.ManagePermissionsActivity

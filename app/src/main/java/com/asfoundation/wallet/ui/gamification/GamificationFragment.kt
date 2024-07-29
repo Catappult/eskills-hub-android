@@ -10,8 +10,8 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.analytics.analytics.gamification.GamificationAnalytics
 import com.appcoins.wallet.core.utils.android_common.CurrencyFormatUtils
 import com.appcoins.wallet.ui.common.MarginItemDecoration
-import com.asf.wallet.R
-import com.asf.wallet.databinding.FragmentGamificationBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.FragmentGamificationBinding
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.jakewharton.rxbinding2.view.RxView
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment

@@ -55,9 +55,9 @@ import com.appcoins.wallet.ui.common.R.drawable.ic_card_brand_master_card
 import com.appcoins.wallet.ui.common.R.drawable.ic_card_brand_visa
 import com.appcoins.wallet.ui.widgets.SeparatorView
 import com.appcoins.wallet.ui.widgets.WalletButtonView
-import com.asf.wallet.BuildConfig
-import com.asf.wallet.R
-import com.asf.wallet.databinding.AdyenCreditCardLayoutBinding
+import com.asf.eskills.BuildConfig
+import com.asf.eskills.R
+import com.asf.eskills.databinding.AdyenCreditCardLayoutBinding
 import com.asfoundation.wallet.billing.adyen.enums.PaymentStateEnum
 import com.asfoundation.wallet.entity.TransactionBuilder
 import com.asfoundation.wallet.manage_cards.models.StoredCard

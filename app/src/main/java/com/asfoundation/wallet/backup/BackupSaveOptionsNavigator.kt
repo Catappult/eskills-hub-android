@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.navigation.NavController
 import com.appcoins.wallet.core.arch.data.Navigator
 import com.appcoins.wallet.core.arch.data.navigate
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.backup.BackupSaveOptionsComposeFragment.Companion.SAVE_PLACE_KEY
 import com.asfoundation.wallet.backup.bottomSheet.BackupSaveOnDeviceBottomSheetFragment
 import javax.inject.Inject

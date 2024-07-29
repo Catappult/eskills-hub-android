@@ -9,8 +9,8 @@ import android.view.View
 import androidx.compose.ui.platform.ComposeView
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.ui.widgets.TopBar
-import com.asf.wallet.R
-import com.asf.wallet.databinding.ActivityWalletVerificationBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.ActivityWalletVerificationBinding
 import com.asfoundation.wallet.home.usecases.DisplayChatUseCase
 import com.asfoundation.wallet.recover.entry.RecoverEntryFragment
 import com.wallet.appcoins.core.legacy_base.BaseActivity

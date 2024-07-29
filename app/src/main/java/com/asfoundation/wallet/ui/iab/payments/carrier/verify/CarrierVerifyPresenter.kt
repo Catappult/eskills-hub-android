@@ -15,7 +15,7 @@ import com.appcoins.wallet.core.utils.android_common.applicationinfo.Application
 import com.appcoins.wallet.core.utils.android_common.extensions.safeLet
 import com.appcoins.wallet.core.utils.jvm_common.Logger
 import com.appcoins.wallet.ui.common.StringProvider
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.ui.iab.payments.carrier.CarrierInteractor
 import io.reactivex.Completable
 import io.reactivex.Observable

@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import androidx.recyclerview.widget.RecyclerView;
 import com.appcoins.wallet.feature.walletInfo.data.wallet.domain.Wallet;
-import com.asf.wallet.R;
+import com.asf.eskills.R;
 import com.asfoundation.wallet.entity.NetworkInfo;
 import com.asfoundation.wallet.transactions.Operation;
 import com.asfoundation.wallet.ui.widget.OnMoreClickListener;

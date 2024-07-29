@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.navigation.NavController
 import com.appcoins.wallet.core.arch.data.Navigator
 import com.appcoins.wallet.feature.walletInfo.data.wallet.domain.WalletsModel
-import com.asf.wallet.R
+import com.asf.eskills.R
 import javax.inject.Inject
 
 class BackupEntryNavigator @Inject constructor(private val navController: NavController) :

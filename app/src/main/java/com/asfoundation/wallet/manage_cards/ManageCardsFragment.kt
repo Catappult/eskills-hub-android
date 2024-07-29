@@ -51,7 +51,7 @@ import com.appcoins.wallet.ui.common.theme.WalletColors.styleguide_light_grey
 import com.appcoins.wallet.ui.widgets.AddNewCardComposable
 import com.appcoins.wallet.ui.widgets.TopBar
 import com.appcoins.wallet.ui.widgets.component.Animation
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.manage_cards.models.StoredCard
 import com.wallet.appcoins.core.legacy_base.BasePageViewFragment
 import dagger.hilt.android.AndroidEntryPoint

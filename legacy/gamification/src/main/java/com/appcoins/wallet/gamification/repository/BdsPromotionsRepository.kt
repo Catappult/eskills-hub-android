@@ -72,7 +72,8 @@ class BdsPromotionsRepository @Inject constructor(
     promoCodeString: String?,
     useDbOnError: Boolean = false
   ): Observable<UserStats> =
-    api.getUserStats(wallet, Locale.getDefault().language, promoCodeString)
+    //api.getUserStats(wallet, Locale.getDefault().language, promoCodeString)
+    Single.just(UserStatusResponse(listOf(),WalletOrigin.APTOIDE))
       .subscribeOn(Schedulers.io())
       .map { filterByDate(it) }
       .flatMapObservable {

@@ -14,7 +14,7 @@ import com.appcoins.wallet.core.network.microservices.model.VkPayTransaction
 import com.appcoins.wallet.core.network.microservices.model.VkPrice
 import com.appcoins.wallet.core.utils.android_common.RxSchedulers
 import com.appcoins.wallet.feature.walletInfo.data.wallet.usecases.GetCurrentWalletUseCase
-import com.asf.wallet.R
+import com.asf.eskills.R
 import com.asfoundation.wallet.billing.paypal.usecases.CreateSuccessBundleUseCase
 import com.asfoundation.wallet.billing.vkpay.usecases.CreateVkPayTransactionUseCase
 import com.asfoundation.wallet.entity.TransactionBuilder

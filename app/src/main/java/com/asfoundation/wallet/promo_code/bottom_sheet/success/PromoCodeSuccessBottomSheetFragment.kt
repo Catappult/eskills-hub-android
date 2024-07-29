@@ -13,8 +13,8 @@ import com.appcoins.wallet.core.arch.SideEffect
 import com.appcoins.wallet.core.arch.SingleStateFragment
 import com.appcoins.wallet.core.arch.ViewState
 import com.appcoins.wallet.feature.promocode.data.repository.PromoCode
-import com.asf.wallet.R
-import com.asf.wallet.databinding.SettingsPromoCodeSuccessBottomSheetLayoutBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.SettingsPromoCodeSuccessBottomSheetLayoutBinding
 import com.asfoundation.wallet.promo_code.bottom_sheet.PromoCodeBottomSheetNavigator
 import com.asfoundation.wallet.wallet_reward.RewardSharedViewModel
 import com.google.android.material.bottomsheet.BottomSheetBehavior

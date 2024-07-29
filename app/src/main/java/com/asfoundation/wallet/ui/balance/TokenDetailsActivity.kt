@@ -8,8 +8,8 @@ import android.view.View
 import android.view.Window
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.appcoins.wallet.core.utils.android_common.WalletCurrency
-import com.asf.wallet.R
-import com.asf.wallet.databinding.ActivityTokenDetailsBinding
+import com.asf.eskills.R
+import com.asf.eskills.databinding.ActivityTokenDetailsBinding
 import com.asfoundation.wallet.router.TopUpRouter
 import com.jakewharton.rxbinding2.view.RxView
 import com.wallet.appcoins.core.legacy_base.BaseActivity
